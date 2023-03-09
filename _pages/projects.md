@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-### Projects 
+### My research 
 
 - Project 1
 
