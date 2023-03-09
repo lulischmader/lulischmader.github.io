@@ -5,6 +5,7 @@ permalink: /projects/
 ---
 
 ### My research 
+![Montaña](https://github.com/lulischmader/lulischmader.github.io/blob/master/images/Mountain.png)
 
 - Project 1
 
