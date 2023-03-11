@@ -3,7 +3,9 @@ layout: page
 permalink: /archive/
 title: Teaching
 ---
+## Teaching Philosophy
 
+## Courses Taught
 
 <div id="archive">
   <section id="archive">
