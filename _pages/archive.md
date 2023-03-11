@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /archive/
-title: Conferences and Publications
+permalink: /Conferences/
+title: Conferences
 ---
 
 
