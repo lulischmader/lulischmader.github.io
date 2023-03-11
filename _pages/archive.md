@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /Teaching/
-title: Teaching Philosophy and courses
+permalink: /archive/
+title: 
 ---
 
 
-<div id="teaching">
-  <section id="teaching">
+<div id="archive">
+  <section id="archive">
      <h3>Most Recent Posts</h3>
       {%for post in site.posts %}
       {% unless post.next %}
