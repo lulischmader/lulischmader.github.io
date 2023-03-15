@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Research Projects
+permalink: /research-projects/
 ---
 
 ### My research 
-![Montaña](https://github.com/lulischmader/lulischmader.github.io/blob/master/images/Mountain.png)
+
 
 - Project 1
 
