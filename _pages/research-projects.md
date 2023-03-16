@@ -4,10 +4,7 @@ title: Research Projects
 permalink: /research-projects/
 ---
 
-### My research 
-
-
-- Project 1
+### **Project 1**
 
 > The first line of study takes place in the United States and looks at the significant presence of the Kichwa diaspora community in Queens, New York. Interest is placed in their efforts to revitalize their ancestors’ language, the consolidation of their Indigenous roots outside the Ecuadorian territory, and how mobility has played a vital role in the extension of their identity. This complex situation led me to postulate the following questions that guide my research:
 (i) How has mobility contributed to the continuity of Kichwa identity in the diaspora?
@@ -20,7 +17,6 @@ permalink: /research-projects/
 
 > Connecting the Kichwa immigration, intergenerational trauma, and the new wave of language revitalization is crucial to understand the diaspora’s efforts to reclaim their identity and language. This analysis aims to promote further studies of the Kichwa language in the United States. I have started a qualitative research method through interviews with the young Kichwa generations, and I plan to continue expanding this project by adding quantitative methods.
 
-
-- Project 2 
+### **Project 2**
 
 > My second line of investigation takes place in the Ecuadorian Amazon. I am drawing from the ancestral knowledge and Indigenous cosmovision of the **“Sumak Kawsay”** (Good living) and **“Sacha Kawsay,”** (Living Forest) along with the Rights of Nature that are protected under the Constitution of Ecuador. I analyze the interaction between individuals, Indigenous communities, and the government to reach a consensus that looks after the well-being of local and national ecosystems. Countries such as Ecuador and Bolivia have integrated legislation in favor of Nature. These innovative ways of living in harmony with the environment can also be applied in the global context to reverse the accelerated destruction of Nature. 
