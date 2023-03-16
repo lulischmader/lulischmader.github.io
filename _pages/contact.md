@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 Email: les231@miami.edu
-Instagram:@harmonious_beings
+Instagram: harmonious_beings
