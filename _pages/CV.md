@@ -14,7 +14,7 @@ permalink: /cv/
 - **Bachelor of Science in Political Science**, Universidad Católica de Santiago de Guayaquil
 - **Bachelor of Science in Criminal Justice**, University of Maryland Global Campus, Graduated May 2011
 - **Master of Arts in Spanish**, Texas State University, Graduated May 2020
-- **Ph.D. in Literary, Cultural, and Linguistic Studies, University of Miami, *(in progress)* 2021-2026 (est.)
+- **Ph.D. in Literary, Cultural, and Linguistic Studies**, University of Miami, *(in progress)* 2021-2026 (est.)
 
 ---
 
