@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /archive/
+permalink: /teaching/
 title: Teaching
 ---
 ## Teaching Philosophy
