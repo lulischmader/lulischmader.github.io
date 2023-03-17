@@ -5,31 +5,21 @@ title: Teaching
 ---
 ## Teaching Philosophy
 
+As a language instructor, I aspire to create a student-centered learning environment where students will actively participate in their learning. I dedicate time to getting to know my students to learn what motivates them, and by doing so, I can create meaningful lessons that spark their interest. Part of my teaching methodology is derived from the American Council on the Teaching of Foreign Languages (ACTFL) and the World-Readiness Standards for learning languages that “define the central role of world languages in the learning career of every student. The five goals areas of the Standards establish an inextricable link between communication and culture, which is applied in making connections and comparisons and using this competence to be part of local and global communities.” ( World-Readiness Standards for Learning Languages | ACTFL).   Therefore, the lessons and activities that I designed will consider the incorporation of the 5C’s: **“Communication,” “Cultures,” “Connections,” “Comparisons,” and “Communities.”**
+ 
+I believe education should be accessible to all individuals in all communities, regardless of their background, social status, gender, ethnicity, and mental or physical disabilities. This is one of the motives that prompted me to go back to school at a later age and attain my Masters in Spanish. I am pursuing my Ph.D. in Literacy, Culture, and Linguistics at the University of Miami. Since high school, I knew I wanted to further my education, but it was not accessible due to economic reasons. This challenge allowed me to get creative and look for scholarships and funding, which was very competitive. These experiences in my personal life gave me a solid perspective of the challenges students face today when trying to pursue their educational goals.
+Consequently, I want to use my language knowledge and life experiences to inspire others. In an increasingly global workforce, learning a new language provides individuals with competitive skills, resulting in more job opportunities in the future. It also means gaining valuable knowledge about other cultures, cuisines, and traditions that can help broaden inclusiveness.
+ 
+Furthermore, I am passionate about teaching the Spanish language and seeing my students succeed. As a language instructor, I aspire to inspire my students and help them develop the skills needed for self-improvement. From day one, I have worked toward building a community in my classroom by creating a sense of belonging, equality, inclusiveness, and openness. I can foster an inspirational environment that embraces open-mindedness, adaptability, and fun while learning. As a teacher, I am a facilitator who motivates students to be comfortable applying what they learn inside and outside the classroom.
+ 
+During my career, I have taught undergraduate courses in Spanish 1 and 2 at Texas State University, Texas Lutheran University, and Northwest Vista College. I was able to practice the language pedagogies courses that I took as a graduate student. Training in these three institutions has added exceptional knowledge and experiences, allowing me to constantly evaluate myself and my teaching methodology. We never stop learning, and as language instructors, we should be open-minded and reflect upon what things we can improve for the benefit of our students.
+ 
+In addition, the use of technology has been beneficial to my teaching methodology because it gives the possibility for extended learning. For example, a homework activity could have the students record a short video in the target language where they can talk about their family, their hobbies, and their life as students. Moreover, I see technology as an enhancer of the learning experience, and it needs to be used with care and meaningful purpose. This means I only incorporate technology when it can extend students’ critical thinking and allow them to engage with the world around them. During the Covid-19 worldwide pandemic, the internet was crucial to continue teaching through online learning platforms. Indeed, students and teachers formed a community that embraced adversity and adaptability. I had to learn new technology tools that incorporated meaningful learning for my students. I went through extensive training to teach synchronous and asynchronous online formats offered by each institution I worked for. I can say that I am proficient in using learning platforms such as Blackboard, Canvas, Tracs, e-Racer, and Zoom. Although, I prefer the face-face experience because it allows more space for student and teacher interactions.
+ 
+As I stated before, a critical component of my teaching philosophy is getting to know my students and building trusting relationships. Based on this information, I can adapt my teaching methods and content to meet the needs of different students. Making every class relevant and engaging the students is essential because they can relate to the content more efficiently and be more open to learning. Finally, I hope that my lessons spark students’ interest to continue learning Spanish, use what they have learned outside the classroom, and see the world from different perspectives.
+
+
 ## Courses Taught
 
-<div id="archive">
-  <section id="archive">
-     <h3>Most Recent Posts</h3>
-      {%for post in site.posts %}
-      {% unless post.next %}
-      <ul class="this">
-          {% else %}
-          {% capture month %}{{ post.date | date: '%B %Y' }}{% endcapture %}
-          {% capture nmonth %}{{ post.next.date | date: '%B %Y' }}{% endcapture %}
-          {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-          {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-          {% if year != nyear %}
-      </ul>
-      <h2 style="text-align:left;">{{ post.date | date: '%Y' }}</h2>
-      <ul class="past">
-          {% endif %}
-          {% if month != nmonth %}
-          <h3 style="text-align:left;">{{ post.date | date: '%B %Y' }}</h3>
-          {% endif %}
-          {% endunless %}
-          <p><b><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a></b> - {% if post.date and post.date != "" %}{{ post.date | date: "%e %B %Y" }}{%endif%}</p>
-          {% endfor %}
-      </ul>
-    <h3>Oldest Posts</h3>
-  </section>
-</div>
+Spanish 101
+Spanish 102
