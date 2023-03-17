@@ -1,19 +1,31 @@
+---
+layout:default
+title: Home
+---
 <!DOCTYPE html>
 <html>
 <head>
 	<title>My Homepage</title>
 	<style>
-		.blur-container {
-  background-image: url('/images/Llama.jpg');
-  background-size: cover;
-  filter: blur(5px); /* adjust the value to control the level of blur */
-  position: relative;
-}
-
+		body {
+			margin: 0;
+			padding: 0;
+		}
+		.container {
+			background-image: url('/images/Llama.jpg');
+			background-size: cover;
+			filter: blur(5px);
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			z-index: -1;
+		}
 	</style>
 </head>
 <body>
 	<div class="container"></div>
-	<!-- Welcome to my page! -->
+	<!-- Your homepage content goes here -->
 </body>
 </html>
