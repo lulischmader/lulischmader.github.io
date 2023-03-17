@@ -2,7 +2,7 @@
 layout: post
 title:  Passion for teaching
 categories: [HTML,Code]
-excerpt: My teaching style follows the 5C's “Communication,” “Cultures,” “Connections,” “Comparisons,” and “Communities.” (ACTFL)
+excerpt: My teaching style follows the 5C's “Communication,” “Cultures,” “Connections,” “Comparisons,” and “Communities.”(ACTFL)
 ---
 
 My aspiration as a language instructor is to create a student-centered learning environment where students will exercise an active role in their learning. I dedicate time to getting to know my students to learn what motivates them, and by doing so, I can create meaningful lessons that spark their interest. Part of my teaching methodology is derived from the American Council on the Teaching of Foreign Languages (ACTFL) and the World-Readiness Standards for learning languages that “define the central role of world languages in the learning career of every student. The five goals areas of the Standards establish an inextricable link between communication and culture, which is applied in making connections and comparisons and in using this competence to be part of local and global communities.” ( World-Readiness Standards for Learning Languages | ACTFL).   Therefore, the lessons and activities that I designed will consider the incorporation of the 5C’s: “Communication,” “Cultures,” “Connections,” “Comparisons,” and “Communities.”
