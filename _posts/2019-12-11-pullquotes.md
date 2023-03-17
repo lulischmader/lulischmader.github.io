@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Pullquotes
-categories:[HTML,Code]
+categories: [HTML,Code]
 Click on the next tabs to learn more about me, my research, and my teaching experience.
 ---
 
