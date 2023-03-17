@@ -1,1 +1,1 @@
-
+<img class+"article-body-image_source" src="content/dam/Travel/2019/November/ecuador.jpg?imwidth=680" alt="Ecuador is where the Andes, Amazon and South America's dense volcanoes squeeze into one of the continent's smallest nations" fecthpriority="high" data-test="article-body-image-source" width="1960" height="1226">
