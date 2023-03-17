@@ -21,5 +21,5 @@ As I stated before, a critical component of my teaching philosophy is getting to
 
 ## Courses Taught
 
-Spanish 101
-Spanish 102
+- Spanish 101
+- Spanish 102
