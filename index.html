@@ -14,3 +14,26 @@
 	<!-- Thank you for visiting my website. This is a place where I share my thoughts, ideas, and projects with the world. Feel free to look around and learn more about me and what I do. -->
 </body>
 </html>
+
+#home {
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.blur-container {
+  background-image: url('your-image.jpg');
+  background-size: cover;
+  filter: blur(5px);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+.home-info {
+  position: relative;
+  z-index: 1; /* add a higher z-index value to ensure the content appears in front of the blur-container element */
+}
