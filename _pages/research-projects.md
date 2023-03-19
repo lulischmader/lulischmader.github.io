@@ -4,14 +4,23 @@ title: Research Projects
 permalink: /research-projects/
 ---
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Ecuadorian Andes</h2>
+
+<img src="/images/Llama.png" alt="Llama" style="width:500px;height:600px;">
+
+</body>
+</html>
+
 ### **Project 1**
 
 > The first line of study takes place in the United States and looks at the significant presence of the Kichwa diaspora community in Queens, New York. Interest is placed in their efforts to revitalize their ancestors’ language, the consolidation of their Indigenous roots outside the Ecuadorian territory, and how mobility has played a vital role in the extension of their identity. This complex situation led me to postulate the following questions that guide my research:
 > 
 1. How has mobility contributed to the continuity of Kichwa identity in the diaspora?
 2. How does the Kichwa diaspora community identify and describe the local environments where current mobility patterns between English, Spanish, and Kichwa occur?
-3. What are the current levels of development of their Kichwa linguistic repertoires?
-4. What communicative resources have had the most significant impact in facilitating the revitalization of the Kichwa language in the globalized world, and how?
 
 > To explain the concept of mobility and its effect on the linguistic community, I build my analysis upon Blommaert’s terms of "orders of indexicality" and "polycentrism." The first term describes how the creation of categories in society generates predetermined perceptions, giving rise to situations of inequity in a globalized world. The second term explains how individuals navigate spaces governed by "norms and constraints" in communication, and sometimes they abide by these rules or create new linguistic patterns.
 
