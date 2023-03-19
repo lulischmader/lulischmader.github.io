@@ -9,7 +9,7 @@ permalink: /research-projects/
 
 <h2>Ecuadorian Andes</h2>
 
-<img src="/images/Llama.png" alt="Llama" style="width:700px;height:600px;">
+<img src="/images/Llama.png" alt="Llama" style="width:900px;height:600px;">
 
 </body>
 </html>
