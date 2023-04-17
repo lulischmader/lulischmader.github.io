@@ -15,7 +15,7 @@ permalink: /research-projects/
 
 ### **Project 1** The Kichwa Project
 
-[**To learn about this project, please visit**]https://lulischmader.github.io/The-Kichwa-Project/
+[**To learn more about this project, please visit:**](https://lulischmader.github.io/The-Kichwa-Project/)
 
 ### **Project 2** Rights of Nature 
 
