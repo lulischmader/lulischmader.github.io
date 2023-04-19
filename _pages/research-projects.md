@@ -7,8 +7,9 @@ permalink: /research-projects/
 <html>
 <body>
 
-
-<img src="/images/Photo_logo.png" alt="TheKichwaProjectLogo" style="width:509px;height:514px;">
+<p align="center">
+  <img src="/images/Photo_logo.png" alt="TheKichwaProjectLogo" style="width:509px;height:514px;">
+</p>
 
 </body>
 </html>
