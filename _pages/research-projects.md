@@ -8,7 +8,7 @@ permalink: /research-projects/
 <body>
 
 
-<img src="/images/Llama.png" alt="Llama" style="width:600px;height:300px;">
+<img src="/images/Photo_logo.png" alt="TheKichwaProjectLogo" style="width:509px;height:514px;">
 
 </body>
 </html>
