@@ -7,4 +7,4 @@ permalink: /contact/
 
 [**Luli's LinkedIn**](https://linkedin.com/in/lourdes-schmader-ma-a4461392)
 
-/Instagram_logo.jpg/ **Instagram** @harmonious_beings
+**Instagram**<img src="/images/Instagram_logo.jpg" alt="Instagram">@harmonious_beings
