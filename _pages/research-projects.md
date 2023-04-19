@@ -18,6 +18,8 @@ permalink: /research-projects/
 
 [**Click here to visit my project website**](https://lulischmader.github.io/The-Kichwa-Project/)
 
+>I recently was awarded the Foreign Language and Area Studies Fellowship from the US Department of Education to learn the Kichwa language in the Ecuadorian Amazon this Summer of 2023. The program offers 140 contact hours of intensive instruction over six weeks.
+
 ### **Project 2** Rights of Nature 
 
 <img src="/images/Mapa_Territorios_Indigenas_Ecuador.png" alt="Ecuadorian Amazon" style="width:600px;height:535px;">
