@@ -27,7 +27,10 @@ permalink: /research-projects/
   <body>
     <div style="display: flex; align-items: center;">
       <div style="flex: 0 0 auto; margin-right: 20px;">
-        <img src="images/Photo_logo.png">
+        
+       <div>
+    <img src="/images/Photo_logo.png" alt="TheKichwaProjectLogo" style="width:200px;height:200px;">
+        
       </div>
       <div style="flex: 1 1 auto;">
         <h2>Project 1: The Kichwa Project</h2>
