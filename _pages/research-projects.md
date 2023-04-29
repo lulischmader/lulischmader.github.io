@@ -31,7 +31,7 @@ body {
   </div>
   <div class="right">
     <h2>Project 1: The Kichwa Project</h2>
-    <p><a href="https://lulischmader.github.io/The-Kichwa-Project/"Click here to visit my project website</a></p>
+    <p><a href="https://lulischmader.github.io/The-Kichwa-Project/" Click here to visit my project website</a></p>
     <p>I recently was awarded the Foreign Language and Area Studies Fellowship from the US Department of Education to learn the Kichwa language in the Ecuadorian Amazon this Summer of 2023. The program offers 140 contact hours of intensive instruction over six weeks.I will be sharing my experiences on this journey in the Fall 2023.</p>
   </div>
   <div class="clear"></div>
@@ -43,22 +43,12 @@ body {
     <div style="position:relative; padding-bottom:80%;">
       <iframe src="//umiami.maps.arcgis.com/apps/Embed/index.html?webmap=bc9e00344f8d4c40b197bdac6bdbcd42&extent=-79.4892,-3.9276,-73.1446,0.2881&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light" frameborder="0" scrolling="no" width="100%" height="100%" style="position:absolute;"></iframe>
     </div>
-    <p>Map of the Indigenous territorios of Ecuador.</p>
+    <p><strong>Map of the Indigenous territorios of Ecuador.</strong></p>
     <p>My second line of investigation takes place in the Ecuadorian Amazon. I am drawing from the ancestral knowledge and Indigenous cosmovision of the "Sumak Kawsay" (Good living) and "Sacha Kawsay" (Living Forest) along with the Rights of Nature that are protected under the Constitution of Ecuador. I analyze the interaction between individuals, Indigenous communities, and the government to reach a consensus that looks after the well-being of local and national ecosystems. Countries such as Ecuador and Bolivia have integrated legislation in favor of Nature. These innovative ways of living in harmony with the environment can also be applied in the global context to reverse the accelerated destruction of Nature.</p>
 
     <hr>
 
-    <h2>Project 3: The Kichwa Diaspora in the United States</h2>
-
-    <p>My second line of study takes place in the United States and looks at the significant presence of the Kichwa diaspora community in Queens, New York. Interest is placed in their efforts to revitalize their ancestors’ language, the consolidation of their Indigenous roots outside the Ecuadorian territory, and how mobility has played a vital role in the extension of their identity. This complex situation led me to postulate the following questions that guide my research:</p>
-
-    <ol>
-      <li>How has mobility contributed to the continuity of Kichwa identity in the diaspora?</li>
-      <li>How does the Kichwa diaspora community identify and describe the local environments where
-
-<hr>
-
-<h2>Project 3: The Kichwa Diaspora in the United States</h2>
+ <h2>Project 3: The Kichwa Diaspora in the United States</h2>
 
 <p>My second line of study takes place in the United States and looks at the significant presence of the Kichwa diaspora community in Queens, New York. Interest is placed in their efforts to revitalize their ancestors’ language, the consolidation of their Indigenous roots outside the Ecuadorian territory, and how mobility has played a vital role in the extension of their identity. This complex situation led me to postulate the following questions that guide my research:</p>
 
