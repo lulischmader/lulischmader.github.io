@@ -1,4 +1,3 @@
----
 layout: page
 permalink: /research-projects/
 ---
@@ -27,10 +26,7 @@ permalink: /research-projects/
   <body>
     <div style="display: flex; align-items: center;">
       <div style="flex: 0 0 auto; margin-right: 20px;">
-        
-       <div>
-    <img src="/images/Photo_logo.png" alt="TheKichwaProjectLogo" style="width:200px;height:200px;">
-        
+        <img src="{{ site.baseurl }}/images/Photo_logo.png" alt="TheKichwaProjectLogo" style="max-width: 100%;">
       </div>
       <div style="flex: 1 1 auto;">
         <h2>Project 1: The Kichwa Project</h2>
@@ -39,6 +35,7 @@ permalink: /research-projects/
     </div>
 
     <hr>
+
 
     <h2>Project 2: Rights of Nature</h2>
     <div style="position:relative; padding-bottom:80%;">
