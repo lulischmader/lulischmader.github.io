@@ -3,10 +3,14 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
+
 <head>
   <style>
     body {
       background-color: powderblue;
+      background-image: url(images/IMG_0956.jpg');
+      background-size: cover;
+      background-position: center;
     }
   </style>
 </head>
