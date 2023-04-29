@@ -17,7 +17,7 @@ permalink: /research-projects/
 <p align="center">
   <img src="/images/Photo_logo.png" alt="TheKichwaProjectLogo" style="width:509px;height:514px;">
 </p>
-  
+
 ### **Project 1** The Kichwa Project
 
 [**Click here to visit my project website**](https://lulischmader.github.io/The-Kichwa-Project/)
@@ -36,11 +36,4 @@ permalink: /research-projects/
 > The first line of study takes place in the United States and looks at the significant presence of the Kichwa diaspora community in Queens, New York. Interest is placed in their efforts to revitalize their ancestors’ language, the consolidation of their Indigenous roots outside the Ecuadorian territory, and how mobility has played a vital role in the extension of their identity. This complex situation led me to postulate the following questions that guide my research:
 > 
 1. How has mobility contributed to the continuity of Kichwa identity in the diaspora?
-2. How does the Kichwa diaspora community identify and describe the local environments where current mobility patterns between English, Spanish, and Kichwa occur?
-
-> To explain the concept of mobility and its effect on the linguistic community, I build my analysis upon Blommaert’s terms of "orders of indexicality" and "polycentrism." The first term describes how the creation of categories in society generates predetermined perceptions, giving rise to situations of inequity in a globalized world. The second term explains how individuals navigate spaces governed by "norms and constraints" in communication, and sometimes they abide by these rules or create new linguistic patterns.
-
-> Throughout my work, I explain how the new Kichwa generations are destabilizing the traditional “orders of indexicality” because they add another layer to their identity by being born or having arrived in this country at a young age. They are now Kichwa-Ecuadorian-American citizens navigating private and public spaces creating their own “polycentric” world. In an ever-changing world, these new generations are actively revitalizing the language, culture, and traditions to honor their ancestry and claim their identity.
-
-> Connecting the Kichwa immigration, intergenerational trauma, and the new wave of language revitalization is crucial to understand the diaspora’s efforts to reclaim their identity and language. This analysis aims to promote further studies of the Kichwa language in the United States. I have started a qualitative research method through interviews with the young Kichwa generations, and I plan to continue expanding this project by adding quantitative methods.
-
+2. How does the Kichwa diaspora community identify and describe the local environments where current mobility patterns between
