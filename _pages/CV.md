@@ -3,6 +3,13 @@ layout: page
 title: CV 
 permalink: /cv/
 ---
+<head>
+  <style>
+    body {
+      background-color: powderblue;
+    }
+  </style>
+</head>
 
 # Luli Schmader
 ## Ph.D. student and Spanish Instructor
