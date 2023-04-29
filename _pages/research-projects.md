@@ -26,7 +26,8 @@ permalink: /research-projects/
   <body>
     <div style="display: flex; align-items: center;">
       <div style="flex: 0 0 auto; margin-right: 20px;">
-        <img src="{{ site.baseurl }}/images/Photo_logo.png" alt="TheKichwaProjectLogo" style="max-width: 100%;">
+        <p><a href="https://lulischmader.github.io/The-Kichwa-Project/">Click here to visit my project website</a></p>
+        
       </div>
       <div style="flex: 1 1 auto;">
         <h2>Project 1: The Kichwa Project</h2>
