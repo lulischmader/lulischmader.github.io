@@ -5,15 +5,19 @@ permalink: /research-projects/
 ---
 
 <html>
+<head>
+<style>
+  body {
+    background-color: powderblue;
+  }
+</style>
+</head>
 <body>
 
 <p align="center">
   <img src="/images/Photo_logo.png" alt="TheKichwaProjectLogo" style="width:509px;height:514px;">
 </p>
-
-</body>
-</html>
-
+  
 ### **Project 1** The Kichwa Project
 
 [**Click here to visit my project website**](https://lulischmader.github.io/The-Kichwa-Project/)
