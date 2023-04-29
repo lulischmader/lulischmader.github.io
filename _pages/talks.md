@@ -11,9 +11,6 @@ permalink: /talks/
   </style>
 </head>
 
-<p align="right">
-<img src="https://images/Nagis_conference.png/>
-</p>
 ## Conference Presentations
 - "THe Kichwa Diaspora in New York: An Identity on the Move." Graduate Student Conference “Transcultural Expressions: Conflict, Identity and Revitalization in multicultural spheres.” Department of Modern Languages and Literatures - University of Miami, March 2-3, 2023.
 - “Colectivo LasTesis: Cuerpo, calle y movilidad.” Symposium on gender, history, and sexuality of the History Department at the University of Texas at Austin, (Zoom Conference) Oct.1, 2022. 
