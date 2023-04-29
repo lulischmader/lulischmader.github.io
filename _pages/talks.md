@@ -1,3 +1,16 @@
+---
+layout: page
+title: Conferences and Publications...
+permalink: /talks/
+---
+<head>
+  <style>
+    body {
+      background-color: powderblue;
+    }
+  </style>
+</head>
+
 ## CONFERENCE PRESENTATIONS
 - "THe Kichwa Diaspora in New York: An Identity on the Move." Graduate Student Conference “Transcultural Expressions: Conflict, Identity and Revitalization in multicultural spheres.” Department of Modern Languages and Literatures - University of Miami, March 2-3 of 2023.
 - “Colectivo LasTesis: Cuerpo, calle y movilidad.” Symposium on gender, history, and sexuality of the History Department at the University of Texas at Austin, speaker, Zoom, Oct.1, 2022.
