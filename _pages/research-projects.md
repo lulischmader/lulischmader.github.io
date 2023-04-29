@@ -37,7 +37,7 @@ body {
 <hr>
 
 <h2>Project 1: The Kichwa Project</h2>
-<p><a href="https://lulischmader.github.io/The-Kichwa-Project/"><iframe src="https://giphy.com/embed/Uimc9luSqGu4FcchR4" width="480" height="396" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/arrow-point-noodlepuppet-Uimc9luSqGu4FcchR4">via GIPHY</a></p>Click here to visit my project website</a></p>
+<p><a href="https://lulischmader.github.io/The-Kichwa-Project/"><Click here to visit my project website</a></p>
 <p class="right">I recently was awarded the Foreign Language and Area Studies Fellowship from the US Department of Education to learn the Kichwa language in the Ecuadorian Amazon this Summer of 2023. The program offers 140 contact hours of intensive instruction over six weeks.</p>
 
 <hr>
