@@ -47,7 +47,7 @@ body {
     <p><strong>Map of the Indigenous territorios of Ecuador.</strong></p>
     <p>My second line of investigation takes place in the Ecuadorian Amazon. I am drawing from the ancestral knowledge and Indigenous cosmovision of the "Sumak Kawsay" (Good living) and "Sacha Kawsay" (Living Forest) along with the Rights of Nature that are protected under the Constitution of Ecuador. I analyze the interaction between individuals, Indigenous communities, and the government to reach a consensus that looks after the well-being of local and national ecosystems. Countries such as Ecuador and Bolivia have integrated legislation in favor of Nature. These innovative ways of living in harmony with the environment can also be applied in the global context to reverse the accelerated destruction of Nature.</p>
 
-    <hr>
+ <hr>
 
  <h2>Project 3: The Kichwa Diaspora in the United States</h2>
 
