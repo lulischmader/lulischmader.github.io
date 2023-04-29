@@ -15,4 +15,5 @@
 ## PUBLICATIONS 
 -Thesis: “Ese brote de llanto y melancolía”: una indagación emocional sobre el suicidio en la obra de Medardo Ángel Silva. 
 > Research focuses on Medardo Angel Silva, poet, writer, and compositor, the most significant representative of Modernismo in Ecuador. Studies include the analysis of the poet from the point of view of the emotions and the impact of the poet's work on Ecuadorian culture. 
+
 -“¡Mujer, levántate!”, “Carta a un humano”, Sigma Delta Pi (Épsilon Beta Chapter) Revista Al principio, Poesía y Prosa. Primavera 2019. Cuaderno XXXIV, pg.12-13. 
