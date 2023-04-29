@@ -23,18 +23,15 @@ body {
 </style>
 </head>
 <body>
-
-<div>
-  <div class="left">
-    <img src="/images/Photo_logo.png" alt="TheKichwaProjectLogo" style="width:200px;height:200px;">
+  
+  <div style="display: flex; align-items: center;">
+  <div style="flex: 0 0 auto; margin-right: 20px;">
+    <img src="images/Photo_logo.png" alt="TheKichwaProjectLogo" style="max-width: 100%;">
   </div>
-  <div class="right">
+  <div style="flex: 1 1 auto;">
     <h2>Project 1: The Kichwa Project</h2>
-    <p><a href="https://lulischmader.github.io/The-Kichwa-Project/"> Click here to visit my project website</a></p>
-    <p>I recently was awarded the Foreign Language and Area Studies Fellowship from the US Department of Education to learn the Kichwa language in the Ecuadorian 
-       Amazon this Summer of 2023. The program offers 140 contact hours of intensive instruction over six weeks. I will be sharing my experiences on this journey in          the Fall 2023</p>
+    <p>I recently was awarded the Foreign Language and Area Studies Fellowship from the US Department of Education to learn the Kichwa language in the Ecuadorian. Amazon this Summer of 2023. The program offers 140 contact hours of intensive instruction over six weeks. I will be sharing my experiences on this journey in the Fall 2023.</p>
   </div>
-  <div class="clear"></div>
 </div>
 
 <hr>
