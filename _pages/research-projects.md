@@ -42,13 +42,6 @@ body {
 </body>
 </html>
 
-
-<h2>Project 1: The Kichwa Project</h2>
-<p><a href="https://lulischmader.github.io/The-Kichwa-Project/"><Click here to visit my project website</a></p>
-<p class="right">I recently was awarded the Foreign Language and Area Studies Fellowship from the US Department of Education to learn the Kichwa language in the Ecuadorian Amazon this Summer of 2023. The program offers 140 contact hours of intensive instruction over six weeks.</p>
-
-<hr>
-
 <h2>Project 2: Rights of Nature</h2>
 <div style="position:relative; padding-bottom:80%;">
   <iframe src="//umiami.maps.arcgis.com/apps/Embed/index.html?webmap=bc9e00344f8d4c40b197bdac6bdbcd42&extent=-79.4892,-3.9276,-73.1446,0.2881&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light" frameborder="0" scrolling="no" width="100%" height="100%" style="position:absolute;"></iframe>
