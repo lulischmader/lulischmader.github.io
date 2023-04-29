@@ -19,6 +19,8 @@ permalink: /talks/
 - “Aplicación de las teorías ludmerianas en El fin de Borges”, SCOLAS, speaker, San Miguel de Allende, Guanajuato, 2019. 
 - Festival de Poesía y Música, 100 Aniversario, Sigma Delta Pi (Capítulo Beta Épsilon), San Marcos, Texas, 2019. 
 
+<img src="/images/Nagis_conference.png" alt="Presenting at Nagis Conference" align="right">
+
 ## Conference Organization
 - Formed part of the organizing committee of the 2023 Graduate Student Conference “Transcultural Expressions: Conflict, Identity and Revitalization in multicultural spheres.” University of Miami. (March 2-3) 
 
