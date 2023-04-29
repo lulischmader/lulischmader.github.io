@@ -1,23 +1,30 @@
----
-layout: default
----
 <!DOCTYPE html>
 <html>
 <head>
   <style>
-  body {
+    body {
       background-color: powderblue;
     }
     strong {
-    font-size: 24px; /* adjust the font size as needed */
-  }
-</style>
+      font-size: 24px; /* adjust the font size as needed */
+    }
+    .container {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      align-items: center;
+      height: 100vh;
+    }
+  </style>
 </head>
 <body>
 
-<h2>Welcome to My Website!</h2>
-<p>As a PhD student, I am excited to share my research and academic journey with you. Here, you will find information about my current research interests, publications, and academic achievements.</p>
- <img src="/images/Background2.png" alt="Waterfall image" align="center" width="400px">
-  </body>
+  <div class="container">
+    <img src="/images/Background2.png" alt="Waterfall image" width="400px">
+    <p><strong>As a PhD student, I am excited to share my research and academic journey with you. Here, you will find information about my current research interests, publications, and academic achievements.</strong></p>
+  </div>
+
+</body>
 </html>
+
 
