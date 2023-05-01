@@ -55,8 +55,14 @@ body {
  <hr>
 
  <h2>Project 3: The Kichwa Diaspora in the United States</h2>
-
-<p>My second line of study takes place in the United States and looks at the significant presence of the Kichwa diaspora community in <strong>Queens, New York</strong>. Interest is placed in their efforts to revitalize their ancestors’ language, the consolidation of their Indigenous roots outside the Ecuadorian territory, and how mobility has played a vital role in the extension of their identity. This complex situation led me to postulate the following questions that guide my research:</p>
+<!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 637px; height: 498px;' src='https://voyant-tools.org/tool/Cirrus/?corpus=e71940571dd5d49f564d5d69f7c393ca'></iframe>
+<p>My third line of study takes place in the United States and looks at the significant presence of the Kichwa diaspora community in <strong>Queens, New York</strong>. Interest is placed in their efforts to revitalize their ancestors’ language, the consolidation of their Indigenous roots outside the Ecuadorian territory, and how mobility has played a vital role in the extension of their identity. This complex situation led me to postulate the following questions that guide my research:</p>
 
 <ol>
   <li>How has mobility contributed to the continuity of Kichwa identity in the diaspora?</li>
