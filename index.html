@@ -5,30 +5,83 @@ layout: default
 <!DOCTYPE html>
 <html>
 <head>
+  <meta charset="UTF-8">
+  <title>Welcome to My Website!</title>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
   <style>
     body {
-      background-color: powderblue;
+      background-color: #f1f1f1;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+    }
+    
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px;
+    }
+    
+    h1 {
+      margin: 0;
+      font-size: 36px;
+      font-weight: bold;
+      color: #333;
+      text-transform: uppercase;
     }
     
     img {
-      float: right;
       width: 60%;
       height: auto;
+      margin: 50px;
+      border-radius: 10px;
+      box-shadow: 5px 5px 10px rgba(0,0,0,0.1);
     }
     
     p {
       margin-left: 15%;
       font-style: italic;
+      color: #555;
+    }
+    
+    a {
+      color: #333;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    
+    a:hover {
+      color: #f1f1f1;
+      background-color: #333;
+      padding: 5px 10px;
+      border-radius: 5px;
+      transition: all 0.2s ease-in-out;
+    }
+    
+    footer {
+      background-color: #333;
+      color: #f1f1f1;
+      padding: 20px;
+      text-align: center;
     }
   </style>
 </head>
 <body>
 
-<h2>Welcome to My Website!</h2>
+  <header>
+    <h1>Welcome to My Website!</h1>
+    <a href="#">Contact</a>
+  </header>
  
-<img src="/images/Background2.png" alt="Waterfall image">
+  <img src="/images/Background2.png" alt="Waterfall image">
  
-<p><strong>As a PhD student, I am excited to share my research and academic journey with you. Here, you will find information about my current research interests, publications, and academic achievements.</strong></p>
+  <p><strong>As a PhD student, I am excited to share my research and academic journey with you. Here, you will find information about my current research interests, publications, and academic achievements.</strong></p>
+ 
+  <footer>
+    &copy; 2023 My Website. All rights reserved.
+  </footer>
  
 </body>
 </html>
+
