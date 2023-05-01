@@ -12,11 +12,11 @@ permalink: /contact/
   </style>
 </head>
 
-<body>
-  <ul>
-    <li><strong>Email:</strong> les231@miami.edu</li>
-    <li><strong><a href="https://linkedin.com/in/lourdes-schmader-ma-a4461392">Luli's LinkedIn</a></strong></li>
-    <li><strong>Instagram:</strong> @harmonious_beings</li>
-  </ul>
- </body>
+### Contact Information
+- **Email:** les231@miami.edu
+- **LinkedIn:**[Luli's LinkedIn](https://www.linkedin.com/in/lourdes-schmader/)
+- **GitHub:** [github.com/lulischmader](https://github.com/lulischmader)
+- **Instagram:** [Instagram](https://www.instagram.com/harmonious_beings/)
+ 
+
 
