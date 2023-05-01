@@ -68,7 +68,9 @@ Aug.2018 - May 2020
 ---
 
 ### Contact Information
-- Email: les231@miami.edu
-- LinkedIn: [linkedin.com/in/lourdesschmader](https://www.linkedin.com/in/lourdesschmader/)
-- GitHub: [github.com/lulischmader](https://github.com/lulischmader)
+- **Email:** les231@miami.edu
+- **LinkedIn:**[Luli's LinkedIn](https://www.linkedin.com/in/lourdes-schmader/)
+- **GitHub:** [github.com/lulischmader](https://github.com/lulischmader)
+- **Instagram:** [Instagram](https://www.instagram.com/harmonious_beings/)
  
+    
