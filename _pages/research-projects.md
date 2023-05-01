@@ -21,7 +21,7 @@ body {
   text-align: left;
 }
 .right {
-  margin-left: 20px;
+  margin-left: 30px;
   text-align: left;
 }
 .clear {
