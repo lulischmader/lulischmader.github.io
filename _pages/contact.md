@@ -21,4 +21,4 @@ permalink: /contact/
 
 **Instagram:** @harmonious_beings
 
-<img src="/images/Cosmovision andina.png" alt="Cosmovision andina voyant graphic" align="right">
+
