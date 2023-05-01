@@ -3,7 +3,13 @@ layout: page
 title: Research Projects
 permalink: /research-projects/
 ---
-
+<!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 637px; height: 498px;' src='https://voyant-tools.org/tool/Cirrus/?corpus=e71940571dd5d49f564d5d69f7c393ca'></iframe>
 <html>
 <head>
 <style>
@@ -60,7 +66,7 @@ body {
 <p>To explain the concept of mobility and its effect on the linguistic community, I build my analysis upon Blommaert’s terms of "orders of indexicality" and "polycentrism." The first term describes how the creation of categories in society generates predetermined perceptions, giving rise to situations of inequity in a globalized world. The second term explains how individuals navigate spaces governed by "norms and constraints" in communication, and sometimes they abide by these rules or create new linguistic patterns. 
 Additionally, in questioning mobility, Blommaert redefines the categories of "locality," "repertoires," and "resources" and challenges sociolinguists to look at other perspectives. These three categories of mobility study are the ones I take as a starting point in my analysis of the Kichwa diaspora in New York. Throughout my work, I explain how the new Kichwa generations are destabilizing the traditional “orders of indexicality” because they add another layer to their identity by being born or having arrived in this country at a young age. They are now Kichwa-Ecuadorian-American citizens navigating private and public spaces creating their own “polycentric” world. In an ever-changing world, these new generations are actively revitalizing the language, culture, and traditions to honor their ancestry and claim their identity. 
 Connecting the Kichwa immigration, intergenerational trauma, and the new wave of language revitalization is crucial to understand the diaspora’s efforts to reclaim their identity and language. This analysis aims to promote further studies of the Kichwa language in the United States. I have started a qualitative research method through interviews with the young Kichwa generations, and I plan to continue expanding this project by adding quantitative methods.</p>
-  
+ 
   </body>
   </html>
 
