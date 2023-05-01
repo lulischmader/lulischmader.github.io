@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conferences and Publications...
+title: Conferences and Publications
 permalink: /talks/
 ---
 <head>
