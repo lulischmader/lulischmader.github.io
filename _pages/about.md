@@ -29,9 +29,5 @@ permalink: /about/
 Latin American Studies | Social Movements | Indigenous Studies | Indigenous Feminism |Ecocriticism |  Amazonia and Environmental Justice | Decolonial Studies | Kichwa Diaspora in the US|  Latin American Literature of the 19th and 21st centuries | Aesthetics | Comparative Literature | Digital Humanities | Ecuadorian Literature | Modernism | Medardo Ángel Silva |
 
 
-<footer style="text-align:center;">
-  Site powered by Jekyll
-</footer>
-
 
 
