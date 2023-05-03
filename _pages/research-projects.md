@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Projects
+title: Projects
 permalink: /projects/
 ---
 <!--	Exported from Voyant Tools (voyant-tools.org).
