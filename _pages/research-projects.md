@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Projects
-permalink: /research-projects/
+permalink: /projects/
 ---
 <!--	Exported from Voyant Tools (voyant-tools.org).
 The iframe src attribute below uses a relative protocol to better function with both
