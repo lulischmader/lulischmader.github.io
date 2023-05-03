@@ -12,9 +12,9 @@ I have taught Spanish I and II courses at Texas State University, Texas Lutheran
 
 **Degrees:**
 
-    M.A. in Spanish, Texas State University, San Marcos, Texas
-    B.A. in Criminal Justice, University of Maryland Global Campus, Adelphi, Maryland.
-    B.A. in Political and Social Sciences, Catholic University of Santiago de Guayaquil School of Law, Guayaquil, Ecuador.
+- M.A. in Spanish, Texas State University, San Marcos, Texas
+- B.A. in Criminal Justice, University of Maryland Global Campus, Adelphi, Maryland.
+- B.A. in Political and Social Sciences, Catholic University of Santiago de Guayaquil School of Law, Guayaquil, Ecuador.
 
 **Areas of research:**
 
