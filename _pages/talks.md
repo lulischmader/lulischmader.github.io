@@ -3,14 +3,6 @@ layout: page
 title: Conferences and Publications
 permalink: /talks/
 ---
-<head>
-  <style>
-    body {
-      background-color: powderblue;
-    }
-  </style>
-</head>
-
 ## Conference Presentations
 <img src="/images/Nagis_conference.png" alt="Presenting at Nagis Conference" align="right">
 - **"Indigenous Women of the Ecuadorian Amazon: The First Line of Defense of their Territory."** NAGIS conference "A New Era in Native American & Global Indigenous Studies." University of Miami, April 24-25, 2023.
