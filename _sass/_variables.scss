@@ -12,7 +12,7 @@ $darkerGray: #222;
 $darkGray: #333;
 $gray: #666;
 $lightGray: #eee;
-$white: #fff;
+$primary-color: powerblue;
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
@@ -25,3 +25,4 @@ $georgia: Georgia, serif;
     @content;
   }
 }
+
