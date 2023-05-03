@@ -20,6 +20,7 @@ permalink: /cv/
 
 ### Teaching and Profesional Experience
 #### University of Miami - Coral Gables, Florida
+*Graduate Teaching Assistant*
 - Instructor of one section of 20 students of Spanish I.
 - Plan lessons and class assignments; organize unit curriculum; grade compositions, exams, and other class assignments. 
 - Coordinate and lead collaborative instruction through online Learning Management Platforms (e.g., Blackboard, MindTap, and Zoom )
