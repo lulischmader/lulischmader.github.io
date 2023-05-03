@@ -4,14 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-<head>
-  <style>
-    body {
-      background-color: powderblue;
-    }
-  </style>
-</head>
-
 ### Contact Information
 - **Email:** les231@miami.edu
 - **GitHub:** [github.com/lulischmader](https://github.com/lulischmader)
