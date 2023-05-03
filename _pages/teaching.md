@@ -3,13 +3,6 @@ layout: page
 permalink: /teaching/
 title: Teaching
 ---
-<head>
-  <style>
-    body {
-      background-color: powderblue;
-    }
-  </style>
-</head>
 
 ## Philosophy of Teaching 
 
