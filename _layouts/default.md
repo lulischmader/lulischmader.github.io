@@ -1,62 +1,41 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-    {% seo title=false %}
-    {% include meta.html %}
+---
+title: {% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}
+---
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+[comment]: <> (CSS stylesheet)
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
 
-    <meta name="theme-color" content="#000000">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
-    {% include analytics_head.html %}
-  </head>
+[comment]: <> (RSS feed link)
+<link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
-  <body>
-    <div id="bar"></div>
-    <div class="wrapper-container">
-      <div class="wrapper-masthead">
-        <div class="container">
-          <header class="masthead clearfix">
-            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
+[comment]: <> (Canonical URL)
+<link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
-            <div class="site-info">
-              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-              <p class="site-description">{{ site.description }}</p> 
-            </div>
+[comment]: <> (Site icon and theme color)
+<meta name="theme-color" content="#000000">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
 
-            <nav>
-              <a href="{{ site.baseurl }}/">Home</a>
-              <a href="{{ site.baseurl }}/about">About</a>
-              <a href="{{ site.baseurl }}/projects">Projects</a>
-              <a href="{{ site.baseurl }}/talks">Talks</a>
-              <a href="{{ site.baseurl }}/teaching">Teaching</a>
-              <a href="{{ site.baseurl }}/cv">CV</a>
-              <a href="{{ site.baseurl }}/contact">Contact</a>
-             
-            </nav>
-          </header>
-        </div>
-      </div>
+[comment]: <> (Analytics code)
+{% include analytics_head.html %}
 
-      <div class="wrapper-main">
-        <div id="main" role="main" class="container">
-          {{ content }}
-        </div>
-      </div>
+# {{ site.name }}
 
-      <div class="wrapper-footer">
-        <div class="container">
-          <footer class="footer">
-            {% include svg-icons.html %}
-            <sup>*</sup> @2023 Luli Schmader. Powered by Jekyll and Github, a fork of Reverie.
-          </footer>
-        </div>
-      </div>
-    </div>
+- [Home]({{ site.baseurl }}/){% if page.title == "About" %} {% else %}- [About]({{ site.baseurl }}/about){% endif %}
+- [Projects]({{ site.baseurl }}/projects)
+- [Talks]({{ site.baseurl }}/talks)
+- [Teaching]({{ site.baseurl }}/teaching)
+- [CV]({{ site.baseurl }}/cv)
+- [Contact]({{ site.baseurl }}/contact)
 
-    {% include analytics.html %}
-  </body>
-</html>
+{{ content }}
+
+---
+
+[comment]: <> (SVG icons)
+{% include svg-icons.html %}
+
+[comment]: <> (Footer text)
+* @2023 Luli Schmader. Powered by Jekyll and Github, a fork of Reverie.
+
+[comment]: <> (Analytics code)
+{% include analytics.html %}
