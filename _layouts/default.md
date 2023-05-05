@@ -1,59 +1,62 @@
----
-title: "{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}"
----
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    {% seo title=false %}
+    {% include meta.html %}
 
-{% seo title=false %}
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
-{% include meta.html %}
+    <meta name="theme-color" content="#000000">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
+    {% include analytics_head.html %}
+  </head>
 
-[//]: # (Stylesheets)
-[//]: # (-----------------------------------------------------------------------)
-[//]: # (Primary Stylesheet)
-[//]: # (-----------------------------------------------------------------------)
-<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
 
-[//]: # (Alternate Stylesheet)
-[//]: # (-----------------------------------------------------------------------)
-<link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+            <div class="site-info">
+              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+              <p class="site-description">{{ site.description }}</p> 
+            </div>
 
-[//]: # (Canonical URL)
-[//]: # (-----------------------------------------------------------------------)
-<link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+            <nav>
+              <a href="{{ site.baseurl }}/">Home</a>
+              <a href="{{ site.baseurl }}/about">About</a>
+              <a href="{{ site.baseurl }}/projects">Projects</a>
+              <a href="{{ site.baseurl }}/talks">Talks</a>
+              <a href="{{ site.baseurl }}/teaching">Teaching</a>
+              <a href="{{ site.baseurl }}/cv">CV</a>
+              <a href="{{ site.baseurl }}/contact">Contact</a>
+             
+            </nav>
+          </header>
+        </div>
+      </div>
 
-[//]: # (Theme Color)
-[//]: # (-----------------------------------------------------------------------)
-<meta name="theme-color" content="#000000">
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          {{ content }}
+        </div>
+      </div>
 
-[//]: # (Favicon)
-[//]: # (-----------------------------------------------------------------------)
-<link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            {% include svg-icons.html %}
+            <sup>@2023 Luli Schmader. Powered by Jekyll and Github, a fork of Reverie.</sup>
+          </footer>
+        </div>
+      </div>
+    </div>
 
-{% include analytics_head.html %}
-
-# {{ site.name }}
-
-{% comment %}
-Navigation Links
-{% endcomment %}
-
-* [Home]({{ site.baseurl }}/)
-* [About]({{ site.baseurl }}/about)
-* [Projects]({{ site.baseurl }}/projects)
-* [Talks]({{ site.baseurl }}/talks)
-* [Teaching]({{ site.baseurl }}/teaching)
-* [CV]({{ site.baseurl }}/cv)
-* [Contact]({{ site.baseurl }}/contact)
-
-{{ content }}
-
----
-
-[//]: # (Footer)
-[//]: # (-----------------------------------------------------------------------)
-[//]: # (SVG Icons)
-[//]: # (-----------------------------------------------------------------------)
-{% include svg-icons.html %}
-
-@2023 Luli Schmader. Powered by Jekyll and Github, a fork of Reverie.
-
-{% include analytics.html %}
+    {% include analytics.html %}
+  </body>
+</html>
