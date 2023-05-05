@@ -4,17 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-<!-- Exported from Voyant Tools (voyant-tools.org).
-The iframe src attribute below uses a relative protocol to better function with both
-http and https sites, but if you're embedding this into a local web page (file protocol)
-you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
-it depends on this server.
-Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 637px; height: 498px;' src='https://voyant-tools.org/tool/Cirrus/?corpus=e71940571dd5d49f564d5d69f7c393ca'></iframe>
-
----
-
-## Project 1: The Kichwa Project
 
 ![TheKichwaProjectLogo](/images/Photo_logo.png){: style="border-radius:50%; width: 200px; float: left; margin-right: 30px"}
 
