@@ -4,7 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-
 ![TheKichwaProjectLogo](/images/Photo_logo.png){: style="border-radius:50%; width: 200px; float: left; margin-right: 30px"}
 
 [Click here to visit my project website](https://lulischmader.github.io/The-Kichwa-Project/)
