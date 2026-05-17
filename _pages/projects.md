@@ -4,13 +4,13 @@ title: Digital Humanities Projects
 permalink: /projects/
 ---
 
-# Ñañapura: Indigenous Women, Extractivism, and Collaborative Knowledge Production in the Ecuadorian Amazon
+# Ñañapura: Embodied Resistance to Epistemic Erasure and Extractivist Development among Kichwa Women in the Ecuadorian Amazon
 
 This interdisciplinary project examines Indigenous Kichwa women’s resistance to extractivist development in the Ecuadorian Amazon through ethnographic research, documentary practice, and collaborative forms of digital knowledge production.
 
 Drawing from Indigenous feminisms, environmental humanities, and decolonial theory, this project explores how Kichwa women mobilize collective practices of care, reciprocity, and territorial defense to challenge extractivist policies and epistemic erasure. The project centers ñañapura—meaning “among sisters” in Kichwa—as a framework for understanding Indigenous feminist praxis grounded in collective responsibility, embodied knowledge, and relational forms of political action.
 
-Based on ethnographic fieldwork conducted in 2023 and 2024, this project combines interviews, audiovisual documentation, mapping, cultural analysis, and collaborative methodologies to examine how Indigenous women generate alternative forms of knowledge production and environmental resistance.
+Based on ethnographic fieldwork conducted in 2023 and 2024, this project combines interviews, audiovisual documentation, cultural analysis, and collaborative methodologies to examine how Indigenous women generate alternative forms of knowledge production and environmental resistance.
 
 ### Digital Humanities Methodologies
 
@@ -26,6 +26,15 @@ Based on ethnographic fieldwork conducted in 2023 and 2024, this project combine
 ### My Role
 
 I conducted ethnographic fieldwork in the Ecuadorian Amazon during 2023 and 2024, collaborating with Kichwa women activists, community leaders, and women’s collectives through interviews, participant observation, audiovisual documentation, and cultural analysis. I developed the conceptual framework of ñañapura and produced interdisciplinary research combining documentary practice, environmental humanities, Indigenous studies, and collaborative forms of digital scholarship.
+
+### Collaborative Documentary Project
+
+As part of this research, I collaboratively developed a documentary project with Kichwa women in the Ecuadorian Amazon to amplify Indigenous women’s voices, environmental struggles, and community-based forms of knowledge production. The documentary explores the intersections of extractivism, territorial defense, Indigenous feminisms, and cultural preservation through audiovisual storytelling and collaborative media practices.
+
+Check out the collaboratively developed documentary trailer here:
+
+[https://drive.google.com/file/d/1pAFfwnltgsJt9tDOcKwvYN_DBscTAs-l/view?usp=drive_link]
+
 
 ---
 
@@ -49,7 +58,7 @@ This experience also contributed to my broader research on Indigenous feminisms,
 
 ### My Role
 
-As a FLAS Fellow, I participated in intensive Kichwa language instruction and cultural immersion in the Ecuadorian Amazon during the summer of 2023. I documented my experiences through research notes, photography, and public scholarship while developing linguistic and cultural competencies that continue to inform my interdisciplinary research and collaborative work with Indigenous communities.
+As a FLAS Fellow, I participated in intensive Kichwa language instruction and cultural immersion in the Ecuadorian Amazon during the summers of 2023 and 2024. I documented my experiences through research notes, photography, footage, and public scholarship while developing linguistic and cultural competencies that continue to inform my interdisciplinary research and collaborative work with Indigenous communities.
 
 ---
 
