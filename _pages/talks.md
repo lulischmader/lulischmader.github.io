@@ -4,9 +4,11 @@ title: Conferences and Publications
 permalink: /talks/
 ---
 
-<p align="center">
-  <img src="/images/UM-Talk-04-05-2024.jpeg" alt="Presenting research on extractivism and Indigenous rights at the University of Miami" width="700" style="border-radius: 15px;">
-</p>
+<img src="/images/UM-Talk-04-05-2024.jpeg" 
+     alt="Presenting research on extractivism and Indigenous rights at the University of Miami" 
+     width="380" 
+     align="right"
+     style="border-radius: 15px; margin-left: 25px; margin-bottom: 15px;">
 
 ## Conference Presentations
 
