@@ -2,7 +2,11 @@
 layout: default
 ---
 
-<img src="/images/Luli-Waterfall2.png" alt="Waterfall image" width="300" align="left" style="margin-right: 20px;">
+<img src="/images/Luli-Waterfall2.png" 
+     alt="Waterfall image" 
+     width="300" 
+     align="left" 
+     style="margin-right: 20px; border-radius: 15px;">
 
 **Welcome**
 
