@@ -7,14 +7,6 @@ permalink: /cv/
 ## Ph.D. in Literary, Cultural, and Linguistic Studies
 ### Digital Humanities Scholar | Spanish Instructor
 
-[Download Full CV (PDF)](/assets/Schmader_Lourdes_CV_Updated_05-16-2026.pdf)
-
-<br>
-
-<object data="/assets/Schmader_Lourdes_CV_Updated_05-16-2026.pdf" type="application/pdf" width="100%" height="1000px">
-  <p>
-  <a href="/assets/Schmader_Lourdes_CV_Updated_05-16-2026.pdf">Download the PDF</a>.</p>
-</object>
 ---
 
 ### Education
