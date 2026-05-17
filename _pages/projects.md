@@ -39,7 +39,12 @@ As part of this research, I collaboratively developed a documentary project with
 
 A preview trailer for the collaborative documentary project is available below. The documentary is currently in post-production and ongoing collaborative editing.
 
-[View the documentary trailer](https://drive.google.com/file/d/1pAFfwnltgsJt9tDOcKwvYN_DBscTAs-l/view?usp=drive_link)
+<iframe src="https://drive.google.com/file/d/1pAFfwnltgsJt9tDOcKwvYN_DBscTAs-l/preview" 
+        width="100%" 
+        height="480" 
+        allow="autoplay"
+        style="border-radius: 15px;">
+</iframe>
 
 ---
 
