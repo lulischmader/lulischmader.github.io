@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 # Ñañapura: Embodied Resistance to Epistemic Erasure and Extractivist Development among Kichwa Women in the Ecuadorian Amazon
-
+![Documentary still](/images/documentary_still_chagra.jpg)
 This interdisciplinary project examines Indigenous Kichwa women’s resistance to extractivist development in the Ecuadorian Amazon through ethnographic research, documentary practice, and collaborative forms of digital knowledge production.
 
 Drawing from Indigenous feminisms, environmental humanities, and decolonial theory, this project explores how Kichwa women mobilize collective practices of care, reciprocity, and territorial defense to challenge extractivist policies and epistemic erasure. The project centers ñañapura—meaning “among sisters” in Kichwa—as a framework for understanding Indigenous feminist praxis grounded in collective responsibility, embodied knowledge, and relational forms of political action.
