@@ -4,10 +4,12 @@ title: About me...
 permalink: /about/
 ---
 
-<p align="center">
-  <img src="/images/Luli_canoa.jpg" alt="Fieldwork in the Ecuadorian Amazon" width="500" style="border-radius: 15px;">
-</p>
-
+<img src="/images/Luli_canoa.jpg" 
+     alt="Fieldwork in the Ecuadorian Amazon" 
+     width="320" 
+     align="right"
+     style="border-radius: 15px; margin-left: 25px; margin-bottom: 15px;">
+     
 I am an Ecuadorian scholar, educator, and interdisciplinary researcher whose work explores the intersections of Indigenous studies, environmental humanities, sociolinguistics, decolonial thought, and Digital Humanities.
 
 My academic and community-engaged research focuses on Indigenous Kichwa communities in the Ecuadorian Amazon and the United States, examining environmental activism, language revitalization, migration, territorial defense, and collaborative forms of knowledge production. Through ethnographic fieldwork, audiovisual media, digital storytelling, and public-facing scholarship, I investigate how Indigenous communities mobilize cultural practices and collective memory to confront extractivist development and environmental injustice.
