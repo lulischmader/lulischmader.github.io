@@ -8,12 +8,14 @@ permalink: /cv/
 ## Ph.D. in Literary, Cultural, and Linguistic Studies
 ### Digital Humanities Scholar | Spanish Instructor
 
+[Download Full CV (PDF)](/pdfs/Schmader_Lourdes_CV_Updated_05-16-2026.pdf)
+
 ---
 
 ### Education
 
-- **Ph.D. in Literary, Cultural, and Linguistic Studies**, University of Miami, 2026
-- Dissertation: *Ñañapura: Embodied Resistance to Epistemic Erasure and Extractivist Development Among Kichwa Women in the Ecuadorian Amazon*
+- Ph.D. in Literary, Cultural, and Linguistic Studies, University of Miami, 2026
+- Dissertation: Ñañapura: Embodied Resistance to Epistemic Erasure and Extractivist Development Among Kichwa Women in the Ecuadorian Amazon
   
 **Graduate Certificates**
 - Digital Humanities Certificate
@@ -52,6 +54,8 @@ Digital Humanities, Indigenous Feminisms, Environmental Humanities, Latin Americ
 - Omeka
 - CapCut Video Editor
 - Online learning platforms: Canvas, Blackboard
+
+---
 
 ### Languages
 - Spanish
