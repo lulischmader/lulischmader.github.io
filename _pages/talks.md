@@ -4,10 +4,8 @@ title: Conferences and Publications
 permalink: /talks/
 ---
 
-# Conferences and Publications
-
 <p align="center">
-  <img src="/images/Nagis_conference.png" alt="Presenting at NAGIS Conference" width="500" style="border-radius: 15px;">
+  <img src="/images/UM-Talk-04-05-2024.jpeg" alt="Presenting research on extractivism and Indigenous rights at the University of Miami" width="700" style="border-radius: 15px;">
 </p>
 
 ## Conference Presentations
