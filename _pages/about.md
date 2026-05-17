@@ -6,9 +6,7 @@ permalink: /about/
 
 <img src="/images/Luli_canoa.jpg" 
      alt="Fieldwork in the Ecuadorian Amazon" 
-     width="320" 
-     align="right"
-     style="border-radius: 15px; margin-left: 25px; margin-bottom: 15px;">
+     style="width: 320px; float: right; border-radius: 15px; margin-left: 25px; margin-bottom: 15px;">
      
 I am an Ecuadorian scholar, educator, and interdisciplinary researcher whose work explores the intersections of Indigenous studies, environmental humanities, sociolinguistics, decolonial thought, and Digital Humanities.
 
