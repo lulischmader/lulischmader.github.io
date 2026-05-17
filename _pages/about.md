@@ -4,17 +4,27 @@ title: About me...
 permalink: /about/
 ---
 
-![My profile picture](/images/Luli.png){: .circular-image}
+I am an Ecuadorian scholar, educator, and interdisciplinary researcher whose work explores the intersections of Indigenous studies, environmental humanities, sociolinguistics, decolonial thought, and Digital Humanities.
 
+My academic and community-engaged research focuses on Indigenous Kichwa communities in the Ecuadorian Amazon and the United States, examining environmental activism, language revitalization, migration, territorial defense, and collaborative forms of knowledge production. Through ethnographic fieldwork, audiovisual media, digital storytelling, and public-facing scholarship, I investigate how Indigenous communities mobilize cultural practices and collective memory to confront extractivist development and environmental injustice.
 
-I am a second-year student in the Ph.D. program in Literary, Cultural, and Linguistic Studies at the University of Miami, who was born and raised in Ecuador. My research focuses on Latin American themes and Indigenous Cosmovision of the Peoples of **Abya Yala** (the oldest known name for the American continent) and their cultural productions as well as their activism as innovative ways of radical resurgent that propose alternative venues to combat the ecological crisis in the Amazon rainforest and worldwide.
+I earned my PhD in Literary, Cultural, and Linguistic Studies from the University of Miami in 2026, where I also completed graduate certificates in Digital Humanities and Second Language Acquisition and Teaching. My dissertation, *Ñañapura: Embodied Resistance to Epistemic Erasure and Extractivist Development Among Kichwa Women in the Ecuadorian Amazon*, examines Indigenous feminist praxis and collective resistance among Kichwa women through interdisciplinary and collaborative methodologies.
 
-I have taught Spanish I and II courses at Texas State University, Texas Lutheran University, and Northwest Vista College in the San Antonio, Texas, area. I am currently serve as a graduate teaching assistant for the University of Miami.
+In addition to my research, I have taught Spanish language, literature, and culture courses at the University of Miami, Texas Lutheran University, Northwest Vista College, and Texas State University. My teaching emphasizes interdisciplinary learning, cultural analysis, environmental justice, and student-centered pedagogical approaches.
 
-**Degrees:**
-- M.A. in Spanish, Texas State University, San Marcos, Texas.
-- B.A. in Criminal Justice, University of Maryland Global Campus, Adelphi, Maryland.
-- B.A. in Political and Social Sciences, Catholic University of Santiago de Guayaquil School of Law, Guayaquil, Ecuador.
+My digital humanities and technical experience includes ArcGIS and StoryMaps, Omeka digital collections, GitHub web projects, audiovisual production, digital mapping, online pedagogy, and multimedia scholarship.
 
-**Areas of Research:**
-Latin American Studies, Social Movements, Indigenous Studies, Indigenous Feminism, Ecocriticism, Amazonia and Environmental Justice. Decolonial Studies, Kichwa Diaspora in the US, Latin American Literature of the 19th and 21st centuries, Aesthetics, Comparative Literature Digital Humanities,Ecuadorian Literature,Modernism, Medardo Ángel Silva.
+Areas of Research:
+
+* Digital Humanities
+* Indigenous Studies
+* Indigenous Feminisms
+* Environmental Humanities
+* Latin American Studies
+* Amazonian Studies
+* Sociolinguistics
+* Kichwa Diaspora in the United States
+* Decolonial Studies
+* Ecocriticism and Environmental Justice
+* Latin American Literature
+* Comparative Literature
