@@ -10,5 +10,4 @@ permalink: /contact/
 - [**Luli's LinkedIn**](https://linkedin.com/in/lourdes-schmader-ma-a4461392)
 - **Instagram:** [Instagram](https://www.instagram.com/lourdes_schmader)
  
-![Harmonious beings](/images/harmonious_beings.png)
 
