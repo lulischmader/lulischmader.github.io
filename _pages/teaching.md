@@ -3,9 +3,11 @@ layout: page
 permalink: /teaching/
 title: Teaching
 ---
-<p align="center">
-  <img src="/images/Teaching-Kichwa.jpg" alt="Teaching Kichwa language and Indigenous epistemologies" width="450" style="border-radius: 15px;">
-</p>
+<img src="/images/Teaching-Kichwa.jpg" 
+     alt="Teaching Kichwa language and Indigenous epistemologies" 
+     width="300" 
+     align="right"
+     style="border-radius: 15px; margin-left: 25px; margin-bottom: 15px;">
 
 ## Philosophy of Teaching 
 
