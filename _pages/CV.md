@@ -12,7 +12,7 @@ permalink: /cv/
 ---
 
 <object data="/assets/pdfs/Schmader_Lourdes_CV_Updated_05-16-2026.pdf" type="application/pdf" width="100%" height="1000px">
-  <p>Your browser does not support PDFs.
+  <p>
   <a href="/assets/pdfs/Schmader_Lourdes_CV_Updated_05-16-2026.pdf">Download the PDF</a>.</p>
 </object>
 
