@@ -47,9 +47,7 @@ A preview trailer for the collaborative documentary project is available below. 
 
 # Kichwa Language and Cultural Immersion Project
 
-<img src="/images/Luli-Waterfall2.png" alt="Kichwa immersion project" width="500">
-
-This project emerged from intensive Kichwa language study in the Ecuadorian Amazon through the Foreign Language and Area Studies (FLAS) Fellowship funded by the U.S. Department of Education. The program included 140 hours of immersive language instruction and cultural engagement during the summers of 2023 and 2024.
+This project emerged from my intensive Kichwa language study in the Ecuadorian Amazon through the Foreign Language and Area Studies (FLAS) Fellowship funded by the U.S. Department of Education. The program included 140 hours of immersive language instruction and cultural engagement during the summers of 2023 and 2024.
 
 The project explores the relationship between Indigenous language revitalization, cultural preservation, and identity formation through experiential and community-based learning. Through language study and cultural immersion, this project examines how Kichwa language practices sustain ancestral knowledge systems, collective memory, and Indigenous epistemologies within contemporary social and political contexts.
 
