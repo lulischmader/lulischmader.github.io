@@ -12,8 +12,38 @@ During my career, I have taught undergraduate courses in Spanish 1 and 2 at Texa
 
 A critical component of my teaching philosophy is getting to know my students and building trusting relationships. Based on this information, I can adapt my teaching methods and content to meet the needs of different students. Making every class relevant and engaging the students is essential because they can relate to the content more efficiently and be more open to learning. Finally, I hope that my lessons spark students’ interest to continue learning Spanish, use what they have learned outside the classroom, and see the world from different perspectives.
 
-
 ## Courses Taught
 
-- Spanish 101
-- Spanish 102
+### University of Miami  
+Graduate Teaching Assistant, Department of Modern Languages and Literatures (2021–2025)
+
+- SPA 353: Colonial Spanish American Topics — *The Struggle for Representation: Writing Indigenous Peoples during the Spanish-American Colonial Period* (Co-taught with Dr. Viviana Díaz Balsera)
+- SPA 202: Intermediate Spanish II
+- SPA 201: Intermediate Spanish I
+- SPA 102: Elementary Spanish II
+- SPA 101: Elementary Spanish I
+
+Courses taught in face-to-face formats.
+
+### Northwest Vista College  
+Spanish Adjunct Faculty, World Languages Department (2021–Present)
+
+- SPA 1412: Elementary Spanish II
+- SPA 1411: Elementary Spanish I
+
+Courses taught online in synchronous and asynchronous formats.
+
+### Texas Lutheran University  
+Spanish Adjunct Faculty, Department of Communication, Cultures, English, and World Languages (2020–2021)
+
+- SPA 131: Elementary Spanish I
+
+Courses taught online in synchronous formats.
+
+### Texas State University  
+Graduate Teaching Assistant, Department of World Languages and Literatures (2018–2020)
+
+- SPA 1420: Beginning Spanish II
+- SPA 1410: Beginning Spanish I
+
+Courses taught in face-to-face and online synchronous formats.
