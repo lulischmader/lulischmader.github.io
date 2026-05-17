@@ -4,17 +4,30 @@ title: CV
 permalink: /cv/
 ---
 
-# Luli Schmader
-## Ph.D. student and Spanish Instructor
+# Lourdes E. Schmader
+## Ph.D. in Literary, Cultural, and Linguistic Studies
+### Digital Humanities Scholar | Spanish Instructor
+
+[Download Full CV (PDF)](/assets/pdfs/Schmader_Lourdes_CV_Updated_05-16-2026.pdf)
 
 ---
 
 ### Education
 
-- **Ph.D. in Literary, Cultural, and Linguistic Studies**, University of Miami, *(in progress)* 2021-2026 (est.)
-- **Master of Arts in Spanish**, Texas State University, Graduated May 2020
-- **Bachelor of Science in Criminal Justice**, University of Maryland Global Campus, Graduated May 2011
-- **Bachelor of Science in Political Science**, Universidad Católica de Santiago de Guayaquil
+- **Ph.D. in Literary, Cultural, and Linguistic Studies**, University of Miami, 2026
+- Dissertation: *Ñañapura: Embodied Resistance to Epistemic Erasure and Extractivist Development Among Kichwa Women in the Ecuadorian Amazon*
+  
+**Graduate Certificates**
+- Digital Humanities Certificate
+- Second Language Acquisition and Teaching
+
+**MA in Spanish**, Texas State University, 2020
+
+---
+
+## Research Interests
+
+Digital Humanities, Indigenous Feminisms, Environmental Humanities, Latin American Studies, Documentary Practice, Indigenous Media, Public Humanities, Extractivism Studies
 
 ---
 
@@ -58,6 +71,8 @@ Aug.2018 - May 2020
 ### Languages
 - Spanish
 - English
+- Portuguese
+- Kichwa
 
 ---
 
