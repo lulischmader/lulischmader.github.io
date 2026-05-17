@@ -4,13 +4,11 @@ title: Digital Humanities Projects
 permalink: /projects/
 ---
 
-# Digital Humanities Projects
-
-<div style="text-align: justify;">
-
 # Ñañapura: Embodied Resistance to Epistemic Erasure and Extractivist Development among Kichwa Women in the Ecuadorian Amazon
 
-<img src="/images/documentary_still_chagra.jpg" alt="Documentary still" width="700">
+<p align="center">
+  <img src="/images/documentary_still_chagra.jpg" alt="Documentary still" width="700">
+</p>
 
 This interdisciplinary project examines Indigenous Kichwa women’s resistance to extractivist development in the Ecuadorian Amazon through ethnographic research, documentary practice, and collaborative forms of digital knowledge production.
 
@@ -47,7 +45,7 @@ A preview trailer for the collaborative documentary project is available below. 
 
 # Kichwa Language and Cultural Immersion Project
 
-This project emerged from my intensive Kichwa language study in the Ecuadorian Amazon through the Foreign Language and Area Studies (FLAS) Fellowship funded by the U.S. Department of Education. The program included 140 hours of immersive language instruction and cultural engagement during the summers of 2023 and 2024.
+This project emerged from intensive Kichwa language study in the Ecuadorian Amazon through the Foreign Language and Area Studies (FLAS) Fellowship funded by the U.S. Department of Education. The program included 140 hours of immersive language instruction and cultural engagement during the summers of 2023 and 2024.
 
 The project explores the relationship between Indigenous language revitalization, cultural preservation, and identity formation through experiential and community-based learning. Through language study and cultural immersion, this project examines how Kichwa language practices sustain ancestral knowledge systems, collective memory, and Indigenous epistemologies within contemporary social and political contexts.
 
@@ -66,6 +64,8 @@ This experience also contributed to my broader research on Indigenous feminisms,
 ### My Role
 
 As a FLAS Fellow, I participated in intensive Kichwa language instruction and cultural immersion in the Ecuadorian Amazon during the summers of 2023 and 2024. I documented my experiences through research notes, photography, footage, and public scholarship while developing linguistic and cultural competencies that continue to inform my interdisciplinary research and collaborative work with Indigenous communities.
+
+---
 
 # Kichwa Diaspora, Language Revitalization, and Mobility in the United States
 
@@ -90,5 +90,3 @@ This project also examines the relationship between migration, intergenerational
 ### My Role
 
 I developed and conducted qualitative research with members of the Kichwa diaspora community in Queens, New York, focusing on language revitalization, identity formation, and intergenerational experiences of migration. Through interviews and ethnographic observation, I analyzed how multilingual practices and mobility contribute to the preservation and transformation of Indigenous identity in diasporic contexts.
-
-</div>
