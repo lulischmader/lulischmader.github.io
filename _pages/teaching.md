@@ -6,7 +6,6 @@ title: Teaching
 <p align="center">
   <img src="/images/Teaching-Kichwa.jpg" alt="Teaching Kichwa language and Indigenous epistemologies" width="450" style="border-radius: 15px;">
 </p>
----
 
 ## Philosophy of Teaching 
 
