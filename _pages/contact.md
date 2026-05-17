@@ -3,9 +3,11 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-<p align="center">
-  <img src="/images/Vancouver-puesta-del-sol-2023.jpeg" alt="Vancouver sunset conference travel" width="700" style="border-radius: 15px;">
-</p>
+<img src="/images/Vancouver-puesta-del-sol-2023.jpeg" 
+     alt="Vancouver sunset conference travel" 
+     width="380" 
+     align="right"
+     style="border-radius: 15px; margin-left: 25px; margin-bottom: 15px;">
 
 ### Contact Information
 - **Email:** luliulloa@gmail.com
