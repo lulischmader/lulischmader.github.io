@@ -33,7 +33,7 @@ As part of this research, I collaboratively developed a documentary project with
 
 Check out the collaboratively developed documentary trailer here:
 
-[https://drive.google.com/file/d/1pAFfwnltgsJt9tDOcKwvYN_DBscTAs-l/view?usp=drive_link]
+(https://drive.google.com/file/d/1pAFfwnltgsJt9tDOcKwvYN_DBscTAs-l/view?usp=drive_link]](https://drive.google.com/file/d/1pAFfwnltgsJt9tDOcKwvYN_DBscTAs-l/view?usp=sharing)
 
 
 ---
