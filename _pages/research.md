@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Digital Humanities Projects
-permalink: /projects/
+title: Research
+permalink: /research/
 ---
 
 # Ñañapura: Embodied Resistance to Epistemic Erasure and Extractivist Development among Kichwa Women in the Ecuadorian Amazon
