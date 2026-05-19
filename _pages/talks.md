@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conferences and Publications
-permalink: /talks/
+permalink: /Presentations/
 ---
 
 <img src="/images/UM-Talk-04-05-2024.jpeg" 
