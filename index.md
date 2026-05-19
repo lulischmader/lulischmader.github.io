@@ -12,10 +12,9 @@ layout: default
 
 I am Dr. Lourdes Schmader, a scholar of Digital Humanities, Indigenous feminisms, Latin American Studies, and environmental humanities. I earned my PhD in Literary, Cultural, and Linguistic Studies from the University of Miami in 2026.
 
-I examine Indigenous women’s resistance to extractivist development in the Ecuadorian Amazon through ethnographic research, documentary practice, and collaborative digital knowledge production.
+My research examines Indigenous women’s resistance to extractivist development in the Ecuadorian Amazon, with particular attention to environmental justice, Indigenous sovereignty, and decolonial feminist praxis.
 
-I use ethnography, oral history, documentary filmmaking, and archival research to study how Indigenous Kichwa women mobilize collective practices of care, cultural knowledge, and political organizing in response to extractivism and epistemic erasure. My work focuses on the intersections of Indigenous sovereignty, environmental justice, and decolonial feminist praxis.
+Through ethnographic research, oral history, documentary filmmaking, and digital storytelling, I study how Indigenous Kichwa women mobilize collective forms of care, memory, and political organizing in response to extractivism and epistemic erasure.
 
-This website features my research, teaching, digital humanities projects, documentary work, and public scholarship.
-
+This website features my research, teaching, documentary work, digital humanities projects, and public scholarship.
 
