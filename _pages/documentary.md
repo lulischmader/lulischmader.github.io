@@ -4,14 +4,6 @@ title: Documentary
 permalink: /documentary/
 ---
 
----
-layout: page
-title: Documentary
-permalink: /documentary/
----
-
-# Documentary Work
-
 <img src="/images/Among%20Sisters.png" 
      alt="Ñañapura Documentary" 
      width="420" 
