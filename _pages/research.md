@@ -92,7 +92,7 @@ This initiative invites participants to share experiences related to migration, 
 <p align="center">
   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJV6duJpozwI5pdR39zwNFiBSvBIgNKqHmGfUJdxm5ZLER9Q/viewform?embedded=true"
           width="700"
-          height="1600"
+          height="2606"
           frameborder="0"
           marginheight="0"
           marginwidth="0"
@@ -106,7 +106,7 @@ This initiative invites participants to share experiences related to migration, 
 # Environmental Justice and Territorial Defense
 
 <p align="center">
-  <img src="/images/yutzupino-mining.jpg"
+  <img src="/images/yutzupino2%20(1).jpg"
        alt="Mining activity in the Ecuadorian Amazon"
        width="760"
        style="border-radius: 12px;">
