@@ -8,3 +8,59 @@ body {
 .circular-image {
   border-radius: 50%;
 }
+/**************************/
+/* CUSTOM SITE STYLING */
+/**************************/
+
+body {
+  background-image: url('/images/Background2.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+/* Main reading area */
+.wrapper-main {
+  background: rgba(255, 252, 245, 0.92);
+  border-radius: 18px;
+  padding: 25px;
+}
+
+/* Top accent bar */
+#bar {
+  background: #7B3F2A;
+}
+
+/* Navigation links */
+nav a {
+  color: #5A3422;
+  font-weight: 600;
+}
+
+nav a:hover {
+  color: #B85C38;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #5A3422;
+}
+
+/* Body text */
+body, p, li {
+  color: #2D2D2D;
+}
+
+/* Links */
+a {
+  color: #8B3A2B;
+}
+
+a:hover {
+  color: #D17A4A;
+}
+
+/* Rounded images */
+img {
+  border-radius: 15px;
+}
