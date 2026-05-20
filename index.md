@@ -29,7 +29,7 @@ My work explores Indigenous sovereignty, environmental justice, language revital
 
 ---
 
-## Indigenous Feminisms
+## Indigenous Feminisms — *Ñañapura* (“Among Sisters”)
 
 <p align="center">
   <img src="/images/Chagra-Cinthya-Camila.jpg"
@@ -39,6 +39,10 @@ My work explores Indigenous sovereignty, environmental justice, language revital
 </p>
 
 Research on Indigenous feminist praxis, collective care, territorial defense, and environmental justice among Kichwa women in the Ecuadorian Amazon.
+
+This project examines how Indigenous women mobilize embodied forms of knowledge, reciprocity, and environmental stewardship in response to extractivist development and epistemic erasure.
+
+[Explore the Ñañapura Project](/research/)
 
 ---
 
