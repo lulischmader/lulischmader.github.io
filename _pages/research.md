@@ -4,7 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-
 My research examines Indigenous women’s resistance to extractivist development, with particular attention to Indigenous sovereignty, environmental justice, decolonial feminist praxis, and collaborative forms of knowledge production.
 
 ---
