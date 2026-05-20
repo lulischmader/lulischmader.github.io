@@ -1,64 +1,45 @@
-<section class="hero">
-  <img src="images/amazon-hero.jpg" alt="Ecuadorian Amazon landscape">
+# Lourdes “Luli” Schmader
 
-  <div class="hero-text">
-    <h1>Lourdes “Luli” Schmader</h1>
+### Scholar | Educator | Researcher
 
-    <h2>
-      Scholar | Educator | Researcher
-    </h2>
+Digital Humanities • Indigenous Feminisms • Environmental Humanities • Latin American Studies
 
-    <p class="hero-fields">
-      Digital Humanities • Indigenous Feminisms • Environmental Humanities • Latin American Studies
-    </p>
+![Ecuadorian Amazon landscape](images/amazon-hero.jpg)
 
-    <p class="hero-intro">
-      I am an Ecuadorian scholar whose work examines Indigenous women’s resistance to extractivist development in the Ecuadorian Amazon through ethnography, oral history, documentary practice, and digital storytelling.
-    </p>
+My work examines Indigenous women’s resistance to extractivist development in the Ecuadorian Amazon through ethnography, oral history, documentary practice, and digital storytelling.
 
-    <div class="hero-buttons">
-      <a href="research.html">Research</a>
-      <a href="documentary.html">Documentary Work</a>
-    </div>
-  </div>
-</section>
+[Research](research.md) | [Documentary Work](documentary.md)
 
-<section class="featured-research">
-  <h2>Research Areas</h2>
+---
 
-  <div class="research-grid">
+# Research Areas
 
-    <div class="research-card">
-      <img src="images/nanapura.jpg" alt="Documentary still">
-      <h3>Ñañapura</h3>
-      <p>
-        Indigenous feminist praxis, environmental justice, and territorial defense among Kichwa women in the Ecuadorian Amazon.
-      </p>
-    </div>
+## Ñañapura
 
-    <div class="research-card">
-      <img src="images/kichwa-language.jpg" alt="Kichwa language project">
-      <h3>Kichwa Language Revitalization</h3>
-      <p>
-        Digital and community-based approaches to Indigenous language learning and cultural preservation.
-      </p>
-    </div>
+![Documentary still](images/nanapura.jpg)
 
-    <div class="research-card">
-      <img src="images/queens-diaspora.jpg" alt="Kichwa diaspora">
-      <h3>Kichwa Diaspora</h3>
-      <p>
-        Migration, multilingualism, and cultural continuity among Kichwa communities in the United States.
-      </p>
-    </div>
+Indigenous feminist praxis, environmental justice, and territorial defense among Kichwa women in the Ecuadorian Amazon.
 
-    <div class="research-card">
-      <img src="images/documentary.jpg" alt="Documentary filmmaking">
-      <h3>Documentary Practice</h3>
-      <p>
-        Collaborative audiovisual storytelling and public humanities work focused on Indigenous communities.
-      </p>
-    </div>
+---
 
-  </div>
-</section>
+## Kichwa Language Revitalization
+
+![Kichwa language project](images/kichwa-language.jpg)
+
+Digital and community-based approaches to Indigenous language learning and cultural preservation.
+
+---
+
+## Kichwa Diaspora
+
+![Queens research](images/kichwa-diaspora.jpg)
+
+Migration, multilingualism, and cultural continuity among Kichwa communities in the United States.
+
+---
+
+## Documentary Practice
+
+![Documentary filmmaking](images/documentary.jpg)
+
+Collaborative audiovisual storytelling and public humanities work focused on Indigenous communities.
