@@ -8,13 +8,13 @@ My research examines Indigenous women’s resistance to extractivist development
 
 ---
 
-# Ñañapura: Embodied Resistance to Epistemic Erasure and Extractivist Development among Kichwa Women in the Ecuadorian Amazon
+# *Ñañapura*: Embodied Resistance to Epistemic Erasure and Extractivist Development among Kichwa Women in the Ecuadorian Amazon
 
 <p align="center">
   <img src="/images/documentary_still_chagra.jpg" alt="Documentary still" width="700">
 </p>
 
-“Ñañapura: Embodied Resistance to Epistemic Erasure and Extractivist Development among Kichwa Women in the Ecuadorian Amazon” examines how Indigenous Kichwa women mobilize collective practices of care, reciprocity, cultural knowledge, and territorial defense in response to extractivism and epistemic erasure.
+“*Ñañapura*: Embodied Resistance to Epistemic Erasure and Extractivist Development among Kichwa Women in the Ecuadorian Amazon” examines how Indigenous Kichwa women mobilize collective practices of care, reciprocity, cultural knowledge, and territorial defense in response to extractivism and epistemic erasure.
 
 Drawing from Indigenous feminisms, environmental humanities, and decolonial theory, this project develops ñañapura—meaning “among sisters” in Kichwa—as a framework for understanding Indigenous feminist praxis grounded in embodied knowledge, collective responsibility, and relational forms of political action.
 
