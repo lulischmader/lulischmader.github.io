@@ -31,7 +31,7 @@ My work examines Indigenous women’s resistance to extractivist development in 
 
 ---
 
-## *Ñañapura*
+## *Ñañapura* ("Among Sisters")
 
 <p align="center">
   <img src="/images/documentary_still_chagra.jpg"
