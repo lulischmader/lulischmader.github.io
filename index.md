@@ -1,6 +1,8 @@
 ---
+
 layout: page
 title: ""
+
 ---
 
 # Lourdes “Luli” Schmader
@@ -42,7 +44,11 @@ Research on Indigenous feminist praxis, collective care, territorial defense, an
 
 This project examines how Indigenous women mobilize embodied forms of knowledge, reciprocity, and environmental stewardship in response to extractivist development and epistemic erasure.
 
-[Explore the Ñañapura Project](/research/)
+<p align="center">
+  <a href="/research/" style="font-size: 18px; font-weight: 600;">
+    Explore the Ñañapura Project →
+  </a>
+</p>
 
 ---
 
@@ -51,13 +57,17 @@ This project examines how Indigenous women mobilize embodied forms of knowledge,
 <p align="center">
   <img src="/images/Photo_logo.png"
        alt="Kichwa language project"
-       width="260"
+       width="240"
        style="border-radius: 18px;">
 </p>
 
 Digital and community-based approaches to Kichwa language learning, cultural preservation, and Indigenous education.
 
-[Visit the Kichwa Project](https://lulischmader.github.io/The-Kichwa-Project/)
+<p align="center">
+  <a href="https://lulischmader.github.io/The-Kichwa-Project/" style="font-size: 18px; font-weight: 600;">
+    Visit the Kichwa Project →
+  </a>
+</p>
 
 ---
 
@@ -67,7 +77,11 @@ Research on migration, multilingualism, intergenerational memory, and cultural c
 
 This project also explores community-based and participatory research methodologies through collaborative engagement with members of the Kichwa diaspora.
 
-[Research Projects](/research/)
+<p align="center">
+  <a href="/research/" style="font-size: 18px; font-weight: 600;">
+    Explore Diaspora Research →
+  </a>
+</p>
 
 ---
 
@@ -82,7 +96,11 @@ This project also explores community-based and participatory research methodolog
 
 Digital humanities and mapping projects exploring Indigenous environmental resistance, extractivism, and territorial sovereignty in the Ecuadorian Amazon.
 
-[View the Sarayaku StoryMap](https://storymaps.arcgis.com/stories/be689452754f48ac92f5047b56580e93)
+<p align="center">
+  <a href="https://storymaps.arcgis.com/stories/be689452754f48ac92f5047b56580e93" style="font-size: 18px; font-weight: 600;">
+    View the Sarayaku StoryMap →
+  </a>
+</p>
 
 ---
 
@@ -97,4 +115,8 @@ Digital humanities and mapping projects exploring Indigenous environmental resis
 
 Collaborative audiovisual storytelling and public humanities work centered on Indigenous communities, oral history, environmental justice, and cultural memory.
 
-[Documentary Work](/documentary/)
+<p align="center">
+  <a href="/documentary/" style="font-size: 18px; font-weight: 600;">
+    View Documentary Work →
+  </a>
+</p>
