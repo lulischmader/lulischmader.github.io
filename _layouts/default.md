@@ -51,7 +51,7 @@
         <div class="container">
           <footer class="footer">
             {% include svg-icons.html %}
-            <sup>@2023 Luli Schmader. Powered by Jekyll and Github, a fork of Reverie.</sup>
+            <sup>@2026 Lourdes Schmader. Powered by Jekyll and Github, a fork of Reverie.</sup>
           </footer>
         </div>
       </div>
