@@ -8,7 +8,6 @@ permalink: /about/
      alt="Fieldwork in the Ecuadorian Amazon" 
      style="width: 320px; float: right; border-radius: 15px; margin-left: 25px; margin-bottom: 15px;">
      
-About Me
 
 Fieldwork in the Ecuadorian Amazon
 
