@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Home
@@ -29,8 +28,6 @@ My work examines Indigenous women’s resistance to extractivist development in 
 ---
 
 # Research Areas
-
----
 
 ## *Ñañapura*
 
@@ -64,20 +61,13 @@ Digital and community-based approaches to Indigenous language learning, cultural
 
 ## Kichwa Diaspora
 
-This project examines multilingualism, migration, and cultural continuity among Kichwa communities in the United States, with particular attention to intergenerational memory, language revitalization, and Indigenous diasporic identity formation.
+This project examines multilingualism, migration, and cultural continuity among Kichwa communities in the United States, with attention to intergenerational memory, language revitalization, and Indigenous diasporic identity formation.
 
 [Learn More](/research/)
 
 ---
 
 ## Documentary Practice
-
-<p align="center">
-  <img src="/images/documentary_still_chagra.jpg"
-       alt="Documentary filmmaking"
-       width="800"
-       style="border-radius: 12px;">
-</p>
 
 Collaborative audiovisual storytelling and public humanities work focused on Indigenous communities, environmental justice, oral history, and cultural memory.
 
