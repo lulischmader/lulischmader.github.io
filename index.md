@@ -1,22 +1,32 @@
+---
+layout: page
+title: Home
+permalink: /
+---
+
 # Lourdes “Luli” Schmader
 
 ### Scholar | Educator | Researcher
 
 Digital Humanities • Indigenous Feminisms • Environmental Humanities • Latin American Studies
 
-![Ecuadorian Amazon landscape](images/amazon-hero.jpg)
+<p align="center">
+  <img src="/images/amazon-hero.jpg" alt="Ecuadorian Amazon landscape" width="850" style="border-radius: 12px;">
+</p>
 
 My work examines Indigenous women’s resistance to extractivist development in the Ecuadorian Amazon through ethnography, oral history, documentary practice, and digital storytelling.
 
-[Research](research.md) | [Documentary Work](documentary.md)
+[Research](/research/) | [Documentary Work](/documentary/)
 
 ---
 
 # Research Areas
 
-## Ñañapura
+## *Ñañapura*
 
-![Documentary still](images/nanapura.jpg)
+<p align="center">
+  <img src="/images/nanapura.jpg" alt="Documentary still" width="700" style="border-radius: 12px;">
+</p>
 
 Indigenous feminist praxis, environmental justice, and territorial defense among Kichwa women in the Ecuadorian Amazon.
 
@@ -24,7 +34,9 @@ Indigenous feminist praxis, environmental justice, and territorial defense among
 
 ## Kichwa Language Revitalization
 
-![Kichwa language project](images/kichwa-language.jpg)
+<p align="center">
+  <img src="/images/kichwa-language.jpg" alt="Kichwa language project" width="700" style="border-radius: 12px;">
+</p>
 
 Digital and community-based approaches to Indigenous language learning and cultural preservation.
 
@@ -32,7 +44,9 @@ Digital and community-based approaches to Indigenous language learning and cultu
 
 ## Kichwa Diaspora
 
-![Queens research](images/kichwa-diaspora.jpg)
+<p align="center">
+  <img src="/images/kichwa-diaspora.jpg" alt="Queens research" width="700" style="border-radius: 12px;">
+</p>
 
 Migration, multilingualism, and cultural continuity among Kichwa communities in the United States.
 
@@ -40,6 +54,8 @@ Migration, multilingualism, and cultural continuity among Kichwa communities in 
 
 ## Documentary Practice
 
-![Documentary filmmaking](images/documentary.jpg)
+<p align="center">
+  <img src="/images/documentary.jpg" alt="Documentary filmmaking" width="700" style="border-radius: 12px;">
+</p>
 
 Collaborative audiovisual storytelling and public humanities work focused on Indigenous communities.
