@@ -1,54 +1,75 @@
 ---
 layout: page
+title: Teaching
 permalink: /teaching/
-title:  Philosophy of Teaching 
 ---
-<img src="/images/Teaching-Kichwa.jpg" 
-     alt="Teaching Kichwa language and Indigenous epistemologies" 
-     width="300" 
-     align="right"
-     style="border-radius: 15px; margin-left: 25px; margin-bottom: 15px;">
+
+# Teaching
+
+My teaching emphasizes language learning, cultural analysis, interdisciplinary inquiry, and student-centered pedagogy. I approach the classroom as a collaborative space where students connect language, history, literature, visual culture, and contemporary social issues across the Spanish-speaking world.
 
 ---
 
-As a language instructor, I aspire to create a student-centered learning environment where students will actively participate in their learning. I dedicate time to getting to know my students to learn what motivates them, and by doing so, I can create meaningful lessons that spark their interest. Part of my teaching methodology is derived from the American Council on the Teaching of Foreign Languages (ACTFL) and the World-Readiness Standards for learning languages that “define the central role of world languages in the learning career of every student. The five goals areas of the Standards establish an inextricable link between communication and culture, which is applied in making connections and comparisons and using this competence to be part of local and global communities.” (World-Readiness Standards for Learning Languages **ACTFL**). Therefore, the lessons and activities that I designed will consider the incorporation of the 5C’s: “Communication,” “Cultures,” “Connections,” “Comparisons,” and “Communities.” 
+# Courses
 
-During my career, I have taught undergraduate courses in Spanish 1 and 2 at Texas State University, Texas Lutheran University, and Northwest Vista College. I was able to practice the language pedagogies courses that I took as a graduate student. Training in these three institutions has added exceptional knowledge and experiences, allowing me to constantly evaluate myself and my teaching methodology. We never stop learning, and as language instructors, we should be open-minded and reflect upon what things we can improve for the benefit of our students.
+## Colonial Spanish American Topics (SPA 353)
 
-A critical component of my teaching philosophy is getting to know my students and building trusting relationships. Based on this information, I can adapt my teaching methods and content to meet the needs of different students. Making every class relevant and engaging the students is essential because they can relate to the content more efficiently and be more open to learning. Finally, I hope that my lessons spark students’ interest to continue learning Spanish, use what they have learned outside the classroom, and see the world from different perspectives.
+Advanced seminar examining colonial Latin American textual and visual cultures through the study of Indigenous, Spanish, mestizo, and criollo representations produced during the colonial period.
 
-## Courses Taught
+The course explores how conquest, evangelization, and colonial modernity transformed Indigenous societies across the Americas while also generating complex forms of resistance, cultural continuity, and epistemological negotiation. Through literary texts, codices, visual materials, and historical documents from regions including Mexico and Peru, students analyze how Indigenous peoples were represented, imagined, and contested within colonial systems of power and knowledge.
 
-### University of Miami  
-Graduate Teaching Assistant, Department of Modern Languages and Literatures (2021–2025)
+Particular attention is given to Indigenous epistemologies, colonial violence, environmental thought, and the intersections between religion, sovereignty, and cultural memory in the early modern Atlantic world. The course concludes with contemporary Indigenous environmental movements in the Ecuadorian Amazon, including the *Kawsak Sacha* (“Living Forest”) declaration advanced by Indigenous women from Amazonian communities.
 
-- SPA 353: Colonial Spanish American Topics — *The Struggle for Representation: Writing Indigenous Peoples during the Spanish-American Colonial Period* (Co-taught with Dr. Viviana Díaz Balsera)
-- SPA 202: Intermediate Spanish II
-- SPA 201: Intermediate Spanish I
-- SPA 102: Elementary Spanish II
-- SPA 101: Elementary Spanish I
+---
 
-Courses taught in face-to-face formats.
+## Intermediate Spanish II (SPA 202)
 
-### Northwest Vista College  
-Spanish Adjunct Faculty, World Languages Department (2021–Present)
+Advanced intermediate Spanish course focused on textual analysis, analytical writing, and the continued development of oral and written communicative proficiency.
 
-- SPA 1412: Elementary Spanish II
-- SPA 1411: Elementary Spanish I
+Through the study of short stories, poetry, essays, films, visual culture, and contemporary media, students engage with diverse cultural, historical, and political contexts across the Spanish-speaking world. The course emphasizes critical thinking, intercultural analysis, and the development of sophisticated interpretive and argumentative skills in Spanish.
 
-Courses taught online in synchronous and asynchronous formats.
+Students strengthen grammatical proficiency, vocabulary acquisition, close reading practices, and oral presentation abilities while examining questions related to identity, cultural diversity, social responsibility, and representation.
 
-### Texas Lutheran University  
-Spanish Adjunct Faculty, Department of Communication, Cultures, English, and World Languages (2020–2021)
+---
 
-- SPA 131: Elementary Spanish I
+## Intermediate Spanish I (SPA 201)
 
-Courses taught online in synchronous formats.
+Intermediate-level Spanish language course focused on the continued development of speaking, listening, reading, and writing skills through communicative and culturally engaged approaches to language learning.
 
-### Texas State University  
-Graduate Teaching Assistant, Department of World Languages and Literatures (2018–2020)
+This course strengthens oral fluency, grammatical proficiency, analytical writing, and interpretive reading while introducing students to more complex linguistic structures and diverse cultural contexts across the Spanish-speaking world.
 
-- SPA 1420: Beginning Spanish II
-- SPA 1410: Beginning Spanish I
+Students engage with literary excerpts, media, and cultural materials that encourage critical reflection on language, identity, history, and cultural diversity.
 
-Courses taught in face-to-face and online synchronous formats.
+---
+
+## Elementary Spanish II (SPA 102)
+
+Continuation of introductory Spanish language study through the development of speaking, listening, reading, and writing skills at the beginner-intermediate level.
+
+This course emphasizes communicative language learning, intercultural competency, and active student participation through collaborative and discussion-based activities. Students engage with diverse linguistic and cultural contexts across the Spanish-speaking world while strengthening grammatical proficiency, conversational fluency, and written expression.
+
+Using a flipped-classroom model, students encounter new material through guided preparation outside of class while classroom time focuses on interactive practice, collaborative learning, and applied communication.
+
+---
+
+## Elementary Spanish I (SPA 101)
+
+Introduction to Spanish language and Hispanic cultures through the development of speaking, listening, reading, and writing skills at the beginner level.
+
+This course emphasizes communicative language learning, cultural literacy, and interactive engagement with the diverse histories, geographies, and cultures of the Spanish-speaking world.
+
+Students develop foundational proficiency in Spanish while building cross-cultural awareness through collaborative activities, multimedia resources, and everyday communication practices.
+
+---
+
+# Pedagogical Areas
+
+- Student-centered language pedagogy
+- Communicative language teaching
+- Cultural analysis
+- Indigenous studies
+- Latin American literature and culture
+- Environmental humanities
+- Visual and textual analysis
+- Digital humanities in the classroom
+- Intercultural communication
