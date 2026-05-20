@@ -13,7 +13,7 @@ My research examines Indigenous sovereignty, environmental justice, language rev
 <p align="center">
   <img src="/images/documentary_still_chagra.jpg"
        alt="Documentary still from fieldwork in the Ecuadorian Amazon"
-       width="760"
+       width="700"
        style="border-radius: 12px;">
 </p>
 
@@ -40,7 +40,7 @@ Based on ethnographic fieldwork conducted between 2023 and 2025, this research c
 <p align="center">
   <img src="/images/Photo_logo.png"
        alt="Kichwa Language and Cultural Immersion Project"
-       width="250"
+       width="230"
        style="border-radius: 18px;">
 </p>
 
@@ -108,7 +108,7 @@ This initiative invites participants to share experiences related to migration, 
 <p align="center">
   <img src="/images/yutzupino2%20(1).jpg"
        alt="Mining activity in the Ecuadorian Amazon"
-       width="760"
+       width="700"
        style="border-radius: 12px;">
 </p>
 
@@ -129,3 +129,4 @@ Digital mapping and StoryMap projects expand these collaborations by making envi
 - StoryMaps and Mapping
 - Public Humanities
 - Indigenous Sovereignty
+  
