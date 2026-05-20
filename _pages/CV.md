@@ -5,16 +5,18 @@ permalink: /cv/
 ---
 # Lourdes E. Schmader
 ## Ph.D. in Literary, Cultural, and Linguistic Studies
-### Digital Humanities Scholar | Spanish Instructor
+### Scholar | Educator | Researcher
 
 [Download Full CV (PDF)](/assets/pdfs/Schmader_Lourdes_CV_Updated_05-16-2026.pdf)
 
 ---
 
-<object data="/assets/pdfs/Schmader_Lourdes_CV_Updated_05-16-2026.pdf" type="application/pdf" width="100%" height="1000px">
-  <p>
-  <a href="/assets/pdfs/Schmader_Lourdes_CV_Updated_05-16-2026.pdf">Download the PDF</a>.</p>
-</object>
+<p align="center">
+  <a href="/assets/pdfs/Schmader_Lourdes_CV_Updated_05-16-2026.pdf"
+     style="font-size: 20px; font-weight: 600; color: #304d3d;">
+    Download Full CV (PDF) →
+  </a>
+</p>
 
 ---
 
