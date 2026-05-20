@@ -1,8 +1,5 @@
 ---
-
 layout: page
-title: ""
-
 ---
 
 # Lourdes “Luli” Schmader
