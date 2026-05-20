@@ -26,17 +26,18 @@
               <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
               <p class="site-description">{{ site.description }}</p> 
             </div>
-
             <nav>
-              <a href="{{ site.baseurl }}/">Home</a>
-              <a href="{{ site.baseurl }}/about">About</a>
-              <a href="{{ site.baseurl }}/research">Research</a>
-              <a href="{{ site.baseurl }}/documentary">Documentary</a>
-              <a href="{{ site.baseurl }}/teaching">Teaching</a>
-              <a href="{{ site.baseurl }}/cv">CV</a>
-              <a href="{{ site.baseurl }}/contact">Contact</a>
+  <a href="/">Home</a>
+  <a href="/about/">About</a>
+  <a href="/research/">Research</a>
+  <a href="/documentary/">Documentary</a>
+  <a href="/teaching/">Teaching</a>
+  <a href="/cv/">CV</a>
+  <a href="/contact/">Contact</a>
+</nav>
+     
              
-            </nav>
+    
           </header>
         </div>
       </div>
