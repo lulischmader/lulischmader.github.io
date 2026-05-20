@@ -7,19 +7,20 @@ title: ""
 
 ### Scholar | Educator | Researcher
 
-Digital Humanities • Indigenous Feminisms • Environmental Humanities • Latin American Studies
+Digital Humanities • Indigenous Feminisms • Environmental Humanities • Amazonian Studies
 
 <img src="/images/Luli-camera.jpg"
      alt="Lourdes Luli Schmader documentary fieldwork"
-     width="300"
+     width="240"
      align="right"
      style="border-radius: 12px; margin-left: 30px; margin-bottom: 20px;">
 
-My work examines Indigenous women’s resistance to extractivist development in the Ecuadorian Amazon through ethnography, oral history, documentary practice, and digital storytelling. Through interdisciplinary and collaborative methodologies, I explore Indigenous sovereignty, environmental justice, language revitalization, and decolonial feminist praxis across the Amazon and Indigenous diasporic communities in the United States.
+My work explores Indigenous sovereignty, environmental justice, language revitalization, and decolonial feminist praxis in the Ecuadorian Amazon and Indigenous diasporic communities in the United States.
 
 <p align="center">
+  <a href="/about/">About</a> •
   <a href="/research/">Research</a> •
-  <a href="/documentary/">Documentary Work</a> •
+  <a href="/documentary/">Documentary</a> •
   <a href="/teaching/">Teaching</a> •
   <a href="/cv/">CV</a>
 </p>
@@ -28,26 +29,20 @@ My work examines Indigenous women’s resistance to extractivist development in 
 
 ---
 
-# Research Areas
-
----
-
-## *Ñañapura* (“Among Sisters”)
+## Indigenous Feminisms
 
 <p align="center">
   <img src="/images/Chagra-Cinthya-Camila.jpg"
        alt="Kichwa women in the Ecuadorian Amazon"
-       width="820"
+       width="620"
        style="border-radius: 12px;">
 </p>
 
 Research on Indigenous feminist praxis, collective care, territorial defense, and environmental justice among Kichwa women in the Ecuadorian Amazon.
 
-[Learn More](/research/)
-
 ---
 
-## Kichwa Language Revitalization
+## Language Revitalization
 
 <p align="center">
   <img src="/images/Photo_logo.png"
@@ -56,29 +51,35 @@ Research on Indigenous feminist praxis, collective care, territorial defense, an
        style="border-radius: 18px;">
 </p>
 
-Digital and community-based approaches to Indigenous language learning, cultural preservation, and Kichwa language revitalization.
+Digital and community-based approaches to Kichwa language learning, cultural preservation, and Indigenous education.
 
 [Visit the Kichwa Project](https://lulischmader.github.io/The-Kichwa-Project/)
 
 ---
 
-## Kichwa Diaspora
+## Indigenous Diaspora and Migration
 
-Research on migration, multilingualism, intergenerational memory, and cultural continuity among Kichwa communities in the United States.
-
-[Learn More](/research/)
+Research on migration, multilingualism, and intergenerational memory among Kichwa communities in the United States.
 
 ---
 
-## Documentary Practice
+## Environmental Justice and Territorial Defense
+
+Digital humanities and mapping projects exploring Indigenous environmental resistance and territorial sovereignty in the Ecuadorian Amazon.
+
+[View the Sarayaku StoryMap](https://storymaps.arcgis.com/stories/be689452754f48ac92f5047b56580e93)
+
+---
+
+## Documentary and Public Humanities
 
 <p align="center">
   <img src="/images/plantas-cacao.jpg"
        alt="Cacao plants in the Ecuadorian Amazon"
-       width="820"
+       width="620"
        style="border-radius: 12px;">
 </p>
 
-Collaborative audiovisual storytelling and public humanities work centered on Indigenous communities, oral history, environmental justice, and cultural memory. 
+Collaborative audiovisual storytelling and public humanities work centered on Indigenous communities, oral history, environmental justice, and cultural memory.
 
 [Documentary Work](/documentary/)
