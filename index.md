@@ -12,7 +12,7 @@ Digital Humanities • Indigenous Feminisms • Environmental Humanities • Lat
 <p align="center">
   <img src="/images/Luli-camera.jpg"
        alt="Lourdes Luli Schmader documentary fieldwork"
-       width="900"
+       width="760"
        style="border-radius: 12px;">
 </p>
 
@@ -29,16 +29,18 @@ My work examines Indigenous women’s resistance to extractivist development in 
 
 # Research Areas
 
+---
+
 ## *Ñañapura*
 
 <p align="center">
   <img src="/images/documentary_still_chagra.jpg"
        alt="Documentary still"
-       width="800"
+       width="820"
        style="border-radius: 12px;">
 </p>
 
-Indigenous feminist praxis, environmental justice, and territorial defense among Kichwa women in the Ecuadorian Amazon.
+Research on Indigenous feminist praxis, territorial defense, and environmental justice among Kichwa women in the Ecuadorian Amazon.
 
 [Learn More](/research/)
 
@@ -50,10 +52,10 @@ Indigenous feminist praxis, environmental justice, and territorial defense among
   <img src="/images/Photo_logo.png"
        alt="Kichwa language project"
        width="280"
-       style="border-radius: 16px;">
+       style="border-radius: 18px;">
 </p>
 
-Digital and community-based approaches to Indigenous language learning, cultural preservation, and Indigenous language revitalization.
+Digital and community-based approaches to Indigenous language learning, cultural preservation, and Kichwa language revitalization.
 
 [Visit the Kichwa Project](https://lulischmader.github.io/The-Kichwa-Project/)
 
@@ -61,7 +63,7 @@ Digital and community-based approaches to Indigenous language learning, cultural
 
 ## Kichwa Diaspora
 
-This project examines multilingualism, migration, and cultural continuity among Kichwa communities in the United States, with attention to intergenerational memory, language revitalization, and Indigenous diasporic identity formation.
+Research on migration, multilingualism, and cultural continuity among Kichwa communities in the United States.
 
 [Learn More](/research/)
 
@@ -69,6 +71,6 @@ This project examines multilingualism, migration, and cultural continuity among 
 
 ## Documentary Practice
 
-Collaborative audiovisual storytelling and public humanities work focused on Indigenous communities, environmental justice, oral history, and cultural memory.
+Collaborative audiovisual storytelling and public humanities work centered on Indigenous communities, oral history, and environmental justice.
 
 [Documentary Work](/documentary/)
