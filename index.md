@@ -12,7 +12,7 @@ Digital Humanities • Indigenous Feminisms • Environmental Humanities • Lat
 <p align="center">
   <img src="/images/Luli-camera.jpg"
        alt="Lourdes Luli Schmader documentary fieldwork"
-       width="760"
+       width="620"
        style="border-radius: 12px;">
 </p>
 
@@ -29,9 +29,7 @@ My work examines Indigenous women’s resistance to extractivist development in 
 
 # Research Areas
 
----
-
-## *Ñañapura* ("Among Sisters")
+## *Ñañapura* (“Among Sisters”)
 
 <p align="center">
   <img src="/images/hands.jpg"
