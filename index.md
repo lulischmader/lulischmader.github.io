@@ -2,7 +2,6 @@
 ---
 layout: page
 title: Home
-permalink: /
 ---
 
 # Lourdes “Luli” Schmader
@@ -60,3 +59,26 @@ Indigenous feminist praxis, environmental justice, and territorial defense among
 Digital and community-based approaches to Indigenous language learning, cultural preservation, and Indigenous language revitalization.
 
 [Visit the Kichwa Project](https://lulischmader.github.io/The-Kichwa-Project/)
+
+---
+
+## Kichwa Diaspora
+
+This project examines multilingualism, migration, and cultural continuity among Kichwa communities in the United States, with particular attention to intergenerational memory, language revitalization, and Indigenous diasporic identity formation.
+
+[Learn More](/research/)
+
+---
+
+## Documentary Practice
+
+<p align="center">
+  <img src="/images/documentary_still_chagra.jpg"
+       alt="Documentary filmmaking"
+       width="800"
+       style="border-radius: 12px;">
+</p>
+
+Collaborative audiovisual storytelling and public humanities work focused on Indigenous communities, environmental justice, oral history, and cultural memory.
+
+[Documentary Work](/documentary/)
