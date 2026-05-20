@@ -1135,6 +1135,122 @@ Modules - reusable parts of our design
     transform: translateX(0);
   }
 }
+/************************************/
+/* LULI CUSTOM ACADEMIC SITE STYLES */
+/************************************/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@500;600&display=swap');
+
+body {
+  background-color: #faf8f4;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: #222;
+  line-height: 1.9;
+}
+
+.container {
+  max-width: 900px;
+  padding: 0 25px;
+}
+
+.page-content,
+.post {
+  max-width: 900px;
+  margin: auto;
+}
+
+h1, h2, h3,
+.page h1,
+.post h1 {
+  font-family: "Playfair Display", Georgia, serif;
+  color: #26382d;
+  font-weight: 500;
+  line-height: 1.25;
+  text-align: center;
+}
+
+h1 {
+  font-size: 38px;
+  margin-top: 2.5rem;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 22px;
+}
+
+p {
+  margin: 1.3rem 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+a {
+  color: #304d3d;
+
+  &:hover,
+  &:active {
+    color: #304d3d;
+    text-decoration: underline;
+  }
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #d8d0c2;
+  margin: 3rem 0;
+}
+
+.wrapper-masthead {
+  margin-bottom: 45px;
+}
+
+.masthead {
+  border-bottom: 1px solid #d8d0c2;
+}
+
+.site-name {
+  font-family: "Playfair Display", Georgia, serif;
+  color: #26382d;
+  font-weight: 500;
+}
+
+.site-description {
+  color: #6f746d;
+}
+
+nav a {
+  color: #304d3d;
+  font-weight: 500;
+}
+
+@media (min-width: 769px) {
+  .post h2::before,
+  .post h2::after {
+    background: #b9c8b8;
+  }
+}
+
+ul, ol {
+  margin-bottom: 2rem;
+}
+
+li {
+  margin-bottom: 0.45rem;
+}
+
+// Settled on moving the import of syntax highlighting to the bottom of the CSS
+// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
+//@import "highlights";
+@import "darcula";
+@import "svg-icons";
 
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
