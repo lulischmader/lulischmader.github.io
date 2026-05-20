@@ -72,6 +72,13 @@ Research on migration, multilingualism, intergenerational memory, and cultural c
 
 ## Documentary Practice
 
-Collaborative audiovisual storytelling and public humanities work centered on Indigenous communities, oral history, environmental justice, and cultural memory.
+<p align="center">
+  <img src="/images/plantas-cacao.jpg"
+       alt="Cacao plants in the Ecuadorian Amazon"
+       width="820"
+       style="border-radius: 12px;">
+</p>
+
+Collaborative audiovisual storytelling and public humanities work centered on Indigenous communities, oral history, environmental justice, and cultural memory. 
 
 [Documentary Work](/documentary/)
