@@ -4,12 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-# Lourdes E. Schmader
-
-## Ph.D. in Literary, Cultural, and Linguistic Studies
-
-### Scholar | Educator | Researcher
-
 <p align="center">
   <a href="/assets/pdfs/Schmader_Lourdes_CV_Updated_05-16-2026.pdf"
      style="font-size: 20px; font-weight: 600; color: #304d3d;">
