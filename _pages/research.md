@@ -8,7 +8,7 @@ My research examines Indigenous sovereignty, environmental justice, language rev
 
 ---
 
-# *Ñañapura*: Embodied Resistance to Epistemic Erasure and Extractivist Development among Kichwa Women in the Ecuadorian Amazon
+# Indigenous Feminisms — *Ñañapura* (“Among Sisters”)
 
 <p align="center">
   <img src="/images/documentary_still_chagra.jpg"
@@ -23,6 +23,12 @@ Drawing from Indigenous feminisms, environmental humanities, and decolonial theo
 
 Based on ethnographic fieldwork conducted between 2023 and 2025, this research combines oral history, documentary practice, audiovisual media, and collaborative methodologies to examine how Indigenous women sustain cultural memory and generate alternative forms of environmental resistance and knowledge production.
 
+<p align="center">
+  <a href="/documentary/" style="font-size: 18px; font-weight: 600;">
+    View Documentary and Fieldwork →
+  </a>
+</p>
+
 ### Research Areas
 
 - Indigenous Feminisms
@@ -35,7 +41,7 @@ Based on ethnographic fieldwork conducted between 2023 and 2025, this research c
 
 ---
 
-# Kichwa Language and Cultural Immersion Project
+# Language Revitalization — Kichwa Language and Cultural Immersion Project
 
 <p align="center">
   <img src="/images/Photo_logo.png"
@@ -50,7 +56,12 @@ The project promotes Kichwa language and culture through free and accessible dig
 
 By gathering texts, videos, oral resources, and educational materials in one organized digital space, the project seeks to make Kichwa language learning more accessible while supporting broader efforts toward Indigenous linguistic and cultural continuity.
 
-[Visit the Kichwa Project Website](https://lulischmader.github.io/The-Kichwa-Project/)
+<p align="center">
+  <a href="https://lulischmader.github.io/The-Kichwa-Project/"
+     style="font-size: 18px; font-weight: 600;">
+    Visit the Kichwa Project →
+  </a>
+</p>
 
 ### Research Areas
 
@@ -63,7 +74,7 @@ By gathering texts, videos, oral resources, and educational materials in one org
 
 ---
 
-# Indigenous Diaspora, Language Revitalization, and Mobility in the United States
+# Indigenous Diaspora and Migration
 
 This project examines Kichwa diasporic communities in the United States, with particular attention to multilingualism, migration, cultural continuity, and intergenerational memory among Indigenous migrants and younger generations.
 
@@ -71,23 +82,18 @@ Drawing from sociolinguistics, migration studies, Indigenous studies, and ethnog
 
 The project also investigates how younger Kichwa generations reclaim language, traditions, and ancestral knowledge as forms of cultural continuity and resistance within diasporic and urban environments.
 
-### Research Areas
-
-- Sociolinguistics
-- Migration Studies
-- Indigenous Diaspora
-- Language Revitalization
-- Ethnography
-- Transnational Studies
-- Indigenous Mobility
-
----
-
-# Kichwa Diaspora Community Participation Initiative
+### Kichwa Diaspora Community Participation Initiative
 
 As part of this ongoing research, I am developing collaborative and community-based methodologies with members of Kichwa diasporic communities in the United States.
 
 This initiative invites participants to share experiences related to migration, multilingualism, cultural memory, identity formation, and language revitalization among Kichwa communities living outside Ecuador.
+
+<p align="center">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJV6duJpozwI5pdR39zwNFiBSvBIgNKqHmGfUJdxm5ZLER9Q/viewform"
+     style="font-size: 18px; font-weight: 600;">
+    Participate in the Kichwa Diaspora Project →
+  </a>
+</p>
 
 <p align="center">
   <iframe
@@ -101,6 +107,16 @@ This initiative invites participants to share experiences related to migration, 
     Loading…
   </iframe>
 </p>
+
+### Research Areas
+
+- Sociolinguistics
+- Migration Studies
+- Indigenous Diaspora
+- Language Revitalization
+- Ethnography
+- Transnational Studies
+- Indigenous Mobility
 
 ---
 
@@ -119,7 +135,12 @@ My work explores how Indigenous communities organize against mining, oil extract
 
 Digital mapping and StoryMap projects expand these collaborations by making environmental conflicts and Indigenous resistance movements accessible to broader public audiences.
 
-[View the Sarayaku StoryMap](https://storymaps.arcgis.com/stories/be689452754f48ac92f5047b56580e93)
+<p align="center">
+  <a href="https://storymaps.arcgis.com/stories/be689452754f48ac92f5047b56580e93"
+     style="font-size: 18px; font-weight: 600;">
+    View the Sarayaku StoryMap →
+  </a>
+</p>
 
 ### Research Areas
 
@@ -130,4 +151,3 @@ Digital mapping and StoryMap projects expand these collaborations by making envi
 - StoryMaps and Mapping
 - Public Humanities
 - Indigenous Sovereignty
-  
