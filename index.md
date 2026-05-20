@@ -12,8 +12,8 @@ permalink: /
 Digital Humanities • Indigenous Feminisms • Environmental Humanities • Latin American Studies
 
 <p align="center">
-  <img src="/images/Luli-Waterfall2.png"
-       alt="Ecuadorian Amazon landscape"
+  <img src="/images/Luli-camera.jpg"
+       alt="Lourdes Luli Schmader documentary fieldwork"
        width="900"
        style="border-radius: 12px;">
 </p>
