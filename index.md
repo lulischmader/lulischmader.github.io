@@ -9,12 +9,11 @@ title: ""
 
 Digital Humanities • Indigenous Feminisms • Environmental Humanities • Latin American Studies
 
-<p align="center">
-  <img src="/images/Luli-camera.jpg"
-       alt="Lourdes Luli Schmader documentary fieldwork"
-       width="620"
-       style="border-radius: 12px;">
-</p>
+<img src="/images/Luli-camera.jpg"
+     alt="Lourdes Luli Schmader documentary fieldwork"
+     width="320"
+     align="right"
+     style="border-radius: 12px; margin-left: 28px; margin-bottom: 18px;">
 
 My work examines Indigenous women’s resistance to extractivist development in the Ecuadorian Amazon through ethnography, oral history, documentary practice, and digital storytelling.
 
