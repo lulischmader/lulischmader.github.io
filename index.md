@@ -1,8 +1,20 @@
 ---
 layout: page
+title: ""
 ---
 
-# Lourdes “Luli” Schmader
+### Scholar | Educator | Researcher
+
+Digital Humanities • Indigenous Feminisms • Environmental Humanities • Amazonian Studies
+
+<img src="/images/Luli-camera.jpg"
+     alt="Lourdes Luli Schmader documentary fieldwork"
+     width="240"
+     align="right"
+     style="border-radius: 12px; margin-left: 30px; margin-bottom: 20px;">
+
+My work explores Indigenous sovereignty, environmental justice, language revitalization, and decolonial feminist praxis in the Ecuadorian Amazon and among Kichwa diasporic communities across the United States.
+
 
 ### Scholar | Educator | Researcher
 
