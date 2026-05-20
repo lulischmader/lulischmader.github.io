@@ -3,8 +3,6 @@ layout: page
 title: ""
 ---
 
-### Scholar | Educator | Researcher
-
 Digital Humanities • Indigenous Feminisms • Environmental Humanities • Amazonian Studies
 
 <img src="/images/Luli-camera.jpg"
