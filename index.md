@@ -59,7 +59,11 @@ Digital and community-based approaches to Kichwa language learning, cultural pre
 
 ## Indigenous Diaspora and Migration
 
-Research on migration, multilingualism, and intergenerational memory among Kichwa communities in the United States.
+Research on migration, multilingualism, intergenerational memory, and cultural continuity among Kichwa communities in the United States.
+
+This project also explores community-based and participatory research methodologies through collaborative engagement with members of the Kichwa diaspora.
+
+[Research Projects](/research/)
 
 ---
 
