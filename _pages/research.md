@@ -43,7 +43,7 @@ Based on ethnographic fieldwork conducted in 2023 and 2024, this research combin
        style="border-radius: 18px;">
 </p>
 
-This project emerged from intensive Kichwa language study and cultural immersion in the Ecuadorian Amazon through the Foreign Language and Area Studies (FLAS) Fellowship funded by the U.S. Department of Education during the summers of 2023 and 2024.
+This project emerged from intensive Kichwa language study and cultural immersion in the Ecuadorian Amazon through the Foreign Language and Area Studies Fellowship funded by the U.S. Department of Education during the summers of 2023 and 2024.
 
 The project promotes Kichwa language and culture through free and accessible digital resources that support self-guided learning, Indigenous language revitalization, and cultural preservation.
 
@@ -62,17 +62,6 @@ By gathering texts, videos, and educational materials in one organized space, th
 ---
 
 # Kichwa Diaspora, Language Revitalization, and Mobility in the United States
-
----
-
-# Kichwa Diaspora, Language Revitalization, and Mobility in the United States
-
-<p align="center">
-  <img src="/images/queens.jpg"
-       alt="Kichwa diaspora research"
-       width="850"
-       style="border-radius: 12px;">
-</p>
 
 This project examines the Kichwa diaspora community in Queens, New York, focusing on multilingualism, migration, cultural continuity, and intergenerational memory among Indigenous migrants and younger generations.
 
@@ -96,13 +85,13 @@ The project also examines how younger Kichwa generations reclaim language, tradi
 If you are interested in participating in this project or learning more about ongoing research initiatives related to Kichwa diaspora communities, please complete the form below.
 
 <p align="center">
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJV6duJpozwI5pdR39zwNFiBSvBIgNKqHmGfUJdxm5ZLER9Q/viewform?embedded=true"
-        width="700"
-        height="2606"
-        frameborder="0"
-        marginheight="0"
-        marginwidth="0"
-        style="border-radius: 12px;">
-Loading…
-</iframe>
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJV6duJpozwI5pdR39zwNFiBSvBIgNKqHmGfUJdxm5ZLER9Q/viewform?embedded=true"
+          width="700"
+          height="1600"
+          frameborder="0"
+          marginheight="0"
+          marginwidth="0"
+          style="border-radius: 12px;">
+  Loading…
+  </iframe>
 </p>
