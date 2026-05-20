@@ -63,6 +63,10 @@ By gathering texts, videos, and educational materials in one organized space, th
 
 # Kichwa Diaspora, Language Revitalization, and Mobility in the United States
 
+---
+
+# Kichwa Diaspora, Language Revitalization, and Mobility in the United States
+
 <p align="center">
   <img src="/images/queens.jpg"
        alt="Kichwa diaspora research"
@@ -84,3 +88,21 @@ The project also examines how younger Kichwa generations reclaim language, tradi
 - Language Revitalization
 - Ethnography
 - Transnational Studies
+
+---
+
+# Community Participation Form
+
+If you are interested in participating in this project or learning more about ongoing research initiatives related to Kichwa diaspora communities, please complete the form below.
+
+<p align="center">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJV6duJpozwI5pdR39zwNFiBSvBIgNKqHmGfUJdxm5ZLER9Q/viewform?embedded=true"
+        width="700"
+        height="2606"
+        frameborder="0"
+        marginheight="0"
+        marginwidth="0"
+        style="border-radius: 12px;">
+Loading…
+</iframe>
+</p>
