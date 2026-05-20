@@ -11,11 +11,11 @@ Digital Humanities • Indigenous Feminisms • Environmental Humanities • Lat
 
 <img src="/images/Luli-camera.jpg"
      alt="Lourdes Luli Schmader documentary fieldwork"
-     width="320"
+     width="300"
      align="right"
-     style="border-radius: 12px; margin-left: 28px; margin-bottom: 18px;">
+     style="border-radius: 12px; margin-left: 30px; margin-bottom: 20px;">
 
-My work examines Indigenous women’s resistance to extractivist development in the Ecuadorian Amazon through ethnography, oral history, documentary practice, and digital storytelling.
+My work examines Indigenous women’s resistance to extractivist development in the Ecuadorian Amazon through ethnography, oral history, documentary practice, and digital storytelling. Through interdisciplinary and collaborative methodologies, I explore Indigenous sovereignty, environmental justice, language revitalization, and decolonial feminist praxis across the Amazon and Indigenous diasporic communities in the United States.
 
 <p align="center">
   <a href="/research/">Research</a> •
@@ -24,9 +24,13 @@ My work examines Indigenous women’s resistance to extractivist development in 
   <a href="/cv/">CV</a>
 </p>
 
+<br clear="all">
+
 ---
 
 # Research Areas
+
+---
 
 ## *Ñañapura* (“Among Sisters”)
 
@@ -37,7 +41,7 @@ My work examines Indigenous women’s resistance to extractivist development in 
        style="border-radius: 12px;">
 </p>
 
-Research on Indigenous feminist praxis, territorial defense, and environmental justice among Kichwa women in the Ecuadorian Amazon.
+Research on Indigenous feminist praxis, collective care, territorial defense, and environmental justice among Kichwa women in the Ecuadorian Amazon.
 
 [Learn More](/research/)
 
@@ -48,7 +52,7 @@ Research on Indigenous feminist praxis, territorial defense, and environmental j
 <p align="center">
   <img src="/images/Photo_logo.png"
        alt="Kichwa language project"
-       width="280"
+       width="260"
        style="border-radius: 18px;">
 </p>
 
@@ -60,7 +64,7 @@ Digital and community-based approaches to Indigenous language learning, cultural
 
 ## Kichwa Diaspora
 
-Research on migration, multilingualism, and cultural continuity among Kichwa communities in the United States.
+Research on migration, multilingualism, intergenerational memory, and cultural continuity among Kichwa communities in the United States.
 
 [Learn More](/research/)
 
@@ -68,6 +72,6 @@ Research on migration, multilingualism, and cultural continuity among Kichwa com
 
 ## Documentary Practice
 
-Collaborative audiovisual storytelling and public humanities work centered on Indigenous communities, oral history, and environmental justice.
+Collaborative audiovisual storytelling and public humanities work centered on Indigenous communities, oral history, environmental justice, and cultural memory.
 
 [Documentary Work](/documentary/)
