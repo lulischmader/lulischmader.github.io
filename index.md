@@ -56,9 +56,7 @@ This project examines how Indigenous women mobilize embodied forms of knowledge,
        width="240"
        style="border-radius: 18px;">
 </p>
-
-Digital and community-based approaches to Kichwa language learning, cultural preservation, and Indigenous education.
-
+Digital and community-based approaches to Kichwa language learning, cultural preservation, and Indigenous language revitalization in the Ecuadorian Amazon.
 <p align="center">
   <a href="https://lulischmader.github.io/The-Kichwa-Project/" style="font-size: 18px; font-weight: 600;">
     Visit the Kichwa Project →
