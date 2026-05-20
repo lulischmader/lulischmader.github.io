@@ -65,7 +65,14 @@ Research on migration, multilingualism, and intergenerational memory among Kichw
 
 ## Environmental Justice and Territorial Defense
 
-Digital humanities and mapping projects exploring Indigenous environmental resistance and territorial sovereignty in the Ecuadorian Amazon.
+<p align="center">
+  <img src="/images/yutzupino2%20(1).jpg"
+       alt="Mining activity in the Napo River region"
+       width="620"
+       style="border-radius: 12px;">
+</p>
+
+Digital humanities and mapping projects exploring Indigenous environmental resistance, extractivism, and territorial sovereignty in the Ecuadorian Amazon.
 
 [View the Sarayaku StoryMap](https://storymaps.arcgis.com/stories/be689452754f48ac92f5047b56580e93)
 
