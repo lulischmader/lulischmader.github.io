@@ -4,38 +4,31 @@ title: Research
 permalink: /research/
 ---
 
+# Research
+
+My research examines Indigenous women’s resistance to extractivist development, with particular attention to Indigenous sovereignty, environmental justice, decolonial feminist praxis, and collaborative forms of knowledge production.
+
+---
+
 # Ñañapura: Embodied Resistance to Epistemic Erasure and Extractivist Development among Kichwa Women in the Ecuadorian Amazon
 
 <p align="center">
   <img src="/images/documentary_still_chagra.jpg" alt="Documentary still" width="700">
 </p>
 
-This interdisciplinary project examines Indigenous Kichwa women’s resistance to extractivist development in the Ecuadorian Amazon through ethnographic research, documentary practice, and collaborative forms of digital knowledge production.
+“Ñañapura: Embodied Resistance to Epistemic Erasure and Extractivist Development among Kichwa Women in the Ecuadorian Amazon” examines how Indigenous Kichwa women mobilize collective practices of care, reciprocity, cultural knowledge, and territorial defense in response to extractivism and epistemic erasure.
 
-Drawing from Indigenous feminisms, environmental humanities, and decolonial theory, this project explores how Kichwa women mobilize collective practices of care, reciprocity, and territorial defense to challenge extractivist policies and epistemic erasure. The project centers ñañapura—meaning “among sisters” in Kichwa—as a framework for understanding Indigenous feminist praxis grounded in collective responsibility, embodied knowledge, and relational forms of political action.
+Drawing from Indigenous feminisms, environmental humanities, and decolonial theory, this project develops ñañapura—meaning “among sisters” in Kichwa—as a framework for understanding Indigenous feminist praxis grounded in embodied knowledge, collective responsibility, and relational forms of political action.
 
-Based on ethnographic fieldwork conducted in 2023 and 2024, this project combines interviews, audiovisual documentation, cultural analysis, and collaborative methodologies to examine how Indigenous women generate alternative forms of knowledge production and environmental resistance.
+Based on ethnographic fieldwork conducted in 2023 and 2024, this research combines oral history, documentary practice, audiovisual media, and collaborative methodologies to examine how Indigenous women generate alternative forms of environmental resistance and knowledge production in the Ecuadorian Amazon.
 
-### Digital Humanities Methodologies
+## Collaborative Documentary Project
 
-- Collaborative documentary production
-- Ethnographic fieldwork
-- Digital storytelling
-- GIS and territorial mapping
-- Audiovisual media
-- Public humanities
-- Qualitative interviews
-- Visual and media analysis
+As part of this research, I collaboratively developed a documentary project with Kichwa women in the Ecuadorian Amazon to amplify Indigenous women’s voices, environmental struggles, and community-based forms of knowledge production.
 
-### My Role
+The documentary explores the intersections of extractivism, territorial defense, Indigenous feminisms, and cultural preservation through collaborative audiovisual storytelling.
 
-I conducted ethnographic fieldwork in the Ecuadorian Amazon during 2023 and 2024, collaborating with Kichwa women activists, community leaders, and women’s collectives through interviews, participant observation, audiovisual documentation, and cultural analysis. I developed the conceptual framework of ñañapura and produced interdisciplinary research combining documentary practice, environmental humanities, Indigenous studies, and collaborative forms of digital scholarship.
-
-### Collaborative Documentary Project
-
-As part of this research, I collaboratively developed a documentary project with Kichwa women in the Ecuadorian Amazon to amplify Indigenous women’s voices, environmental struggles, and community-based forms of knowledge production. The documentary explores the intersections of extractivism, territorial defense, Indigenous feminisms, and cultural preservation through audiovisual storytelling and collaborative media practices.
-
-### Documentary Trailer
+## Documentary Trailer
 
 A preview trailer for the collaborative documentary project is available below. The documentary is currently in post-production and ongoing collaborative editing.
 
@@ -56,27 +49,11 @@ A preview trailer for the collaborative documentary project is available below. 
      align="right"
      style="border-radius: 15px; margin-left: 25px; margin-bottom: 15px;">
 
-This project emerged from my intensive Kichwa language study in the Ecuadorian Amazon through the Foreign Language and Area Studies (FLAS) Fellowship funded by the U.S. Department of Education. The program included 140 hours of immersive language instruction and cultural engagement during the summers of 2023 and 2024.
+This project emerged from intensive Kichwa language study in the Ecuadorian Amazon through the Foreign Language and Area Studies (FLAS) Fellowship funded by the U.S. Department of Education during the summers of 2023 and 2024.
 
- [Visit The Kichwa Project Website](https://lulischmader.github.io/The-Kichwa-Project/)
+Through language immersion and community-based learning, this project examines the relationship between Indigenous language revitalization, cultural preservation, and collective memory in contemporary Kichwa communities. The project explores how Kichwa language practices sustain ancestral knowledge systems, cultural identity, and Indigenous epistemologies across changing social and political contexts.
 
-The project explores the relationship between Indigenous language revitalization, cultural preservation, and identity formation through experiential and community-based learning. Through language study and cultural immersion, this project examines how Kichwa language practices sustain ancestral knowledge systems, collective memory, and Indigenous epistemologies within contemporary social and political contexts.
-
-This experience also contributed to my broader research on Indigenous feminisms, environmental humanities, and collaborative methodologies in the Ecuadorian Amazon.
-
-### Digital Humanities Methodologies
-
-- Language documentation
-- Cultural immersion
-- Ethnographic observation
-- Public-facing scholarship
-- Indigenous language preservation
-- Collaborative research
-- Multimedia documentation
-
-### My Role
-
-As a FLAS Fellow, I participated in intensive Kichwa language instruction and cultural immersion in the Ecuadorian Amazon during the summers of 2023 and 2024. I documented my experiences through research notes, photography, footage, and public scholarship while developing linguistic and cultural competencies that continue to inform my interdisciplinary research and collaborative work with Indigenous communities.
+[Visit The Kichwa Project Website](https://lulischmader.github.io/The-Kichwa-Project/)
 
 ---
 
@@ -84,22 +61,6 @@ As a FLAS Fellow, I participated in intensive Kichwa language instruction and cu
 
 This project examines the Kichwa diaspora community in Queens, New York, focusing on how Indigenous migrants and younger generations sustain cultural identity, language revitalization, and community formation outside of Ecuadorian territory.
 
-Drawing from sociolinguistics, migration studies, Indigenous studies, and digital humanities methodologies, this research explores how mobility shapes linguistic practices and identity formation among Kichwa-Ecuadorian-American communities navigating multilingual environments across English, Spanish, and Kichwa.
+Drawing from sociolinguistics, migration studies, Indigenous studies, and ethnographic research, this project explores how multilingual practices across English, Spanish, and Kichwa shape identity formation, intergenerational memory, and cultural continuity within transnational Indigenous communities.
 
-The project investigates how younger generations negotiate cultural continuity, intergenerational memory, and Indigenous identity while creating new forms of belonging within transnational and urban contexts. Building on Jan Blommaert’s concepts of “orders of indexicality” and “polycentrism,” this research analyzes how Kichwa diaspora communities challenge traditional linguistic and social categories by producing new cultural and communicative spaces.
-
-This project also examines the relationship between migration, intergenerational trauma, and Indigenous language revitalization, highlighting how younger Kichwa generations actively reclaim language, traditions, and ancestral knowledge as forms of cultural continuity and resistance.
-
-### Digital Humanities Methodologies
-
-- Qualitative interviews
-- Ethnographic research
-- Language documentation
-- Oral history
-- Migration and mobility studies
-- Public humanities
-- Community-based research
-
-### My Role
-
-I developed and conducted qualitative research with members of the Kichwa diaspora community in Queens, New York, focusing on language revitalization, identity formation, and intergenerational experiences of migration. Through interviews and ethnographic observation, I analyzed how multilingual practices and mobility contribute to the preservation and transformation of Indigenous identity in diasporic contexts.
+This research also examines how younger Kichwa generations reclaim language, traditions, and ancestral knowledge as forms of cultural continuity, belonging, and resistance within diasporic and urban contexts.
