@@ -35,8 +35,8 @@ My work examines Indigenous women’s resistance to extractivist development in 
 ## *Ñañapura* (“Among Sisters”)
 
 <p align="center">
-  <img src="/images/hands.jpg"
-       alt="Kichwa women collective practices and territorial defense"
+  <img src="/images/Chagra-Cinthya-Camila.jpg"
+       alt="Kichwa women in the Ecuadorian Amazon"
        width="820"
        style="border-radius: 12px;">
 </p>
