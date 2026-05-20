@@ -20,23 +20,6 @@ Drawing from Indigenous feminisms, environmental humanities, and decolonial theo
 
 Based on ethnographic fieldwork conducted in 2023 and 2024, this research combines oral history, documentary practice, audiovisual media, and collaborative methodologies to examine how Indigenous women generate alternative forms of environmental resistance and knowledge production in the Ecuadorian Amazon.
 
-## Collaborative Documentary Project
-
-As part of this research, I collaboratively developed a documentary project with Kichwa women in the Ecuadorian Amazon to amplify Indigenous women’s voices, environmental struggles, and community-based forms of knowledge production.
-
-The documentary explores the intersections of extractivism, territorial defense, Indigenous feminisms, and cultural preservation through collaborative audiovisual storytelling.
-
-## Documentary Trailer
-
-A preview trailer for the collaborative documentary project is available below. The documentary is currently in post-production and ongoing collaborative editing.
-
-<iframe src="https://drive.google.com/file/d/1pAFfwnltgsJt9tDOcKwvYN_DBscTAs-l/preview" 
-        width="100%" 
-        height="480" 
-        allow="autoplay"
-        style="border-radius: 15px;">
-</iframe>
-
 ---
 
 # Kichwa Language and Cultural Immersion Project
