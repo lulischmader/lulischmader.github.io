@@ -12,6 +12,12 @@ permalink: /documentary/
 
 # Documentary Work
 
+<img src="/images/Among%20Sisters.png" 
+     alt="Ñañapura Documentary" 
+     width="420" 
+     align="right"
+     style="border-radius: 15px; margin-left: 25px; margin-bottom: 15px;">
+
 Ñañapura is a collaborative documentary project developed as part of Chapter 5 of my dissertation, “Ñañapura: Embodied Resistance to Epistemic Erasure and Extractivist Development Among Kichwa Women in the Ecuadorian Amazon.”
 
 Developed through ethnographic fieldwork conducted in the Ecuadorian Amazon between 2023 and 2025, the documentary explores Indigenous women’s experiences of territorial defense, environmental activism, cultural memory, and collective care in the context of extractivist development.
