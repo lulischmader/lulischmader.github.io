@@ -6,7 +6,12 @@ permalink: /about/
 
 # About
 
-![Fieldwork in the Ecuadorian Amazon](images/fieldwork.jpg)
+<p align="center">
+  <img src="/images/Geositio-El-Churo.JPG"
+       alt="Fieldwork in the Ecuadorian Amazon"
+       width="900"
+       style="border-radius: 12px;">
+</p>
 
 My research and teaching explore the intersections of Indigenous studies, Digital Humanities, environmental humanities, sociolinguistics, and decolonial thought.
 
