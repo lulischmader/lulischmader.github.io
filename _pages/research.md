@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-My research examines Indigenous women’s resistance to extractivist development, with particular attention to Indigenous sovereignty, environmental justice, decolonial feminist praxis, and collaborative forms of knowledge production.
+My research examines Indigenous sovereignty, environmental justice, language revitalization, migration, and decolonial feminist praxis through ethnographic fieldwork, oral history, documentary practice, and digital humanities methodologies in the Ecuadorian Amazon and among Kichwa diasporic communities in the United States.
 
 ---
 
@@ -12,25 +12,26 @@ My research examines Indigenous women’s resistance to extractivist development
 
 <p align="center">
   <img src="/images/documentary_still_chagra.jpg"
-       alt="Documentary still"
-       width="850"
+       alt="Documentary still from fieldwork in the Ecuadorian Amazon"
+       width="760"
        style="border-radius: 12px;">
 </p>
 
-This project examines how Indigenous Kichwa women mobilize collective practices of care, reciprocity, cultural knowledge, and territorial defense in response to extractivism and epistemic erasure.
+This project examines how Indigenous Kichwa women mobilize collective practices of care, reciprocity, cultural knowledge, and territorial defense in response to extractivism and epistemic erasure in the Ecuadorian Amazon.
 
-Drawing from Indigenous feminisms, environmental humanities, and decolonial theory, the project develops *ñañapura*—meaning “among sisters” in Kichwa—as a framework for understanding Indigenous feminist praxis grounded in embodied knowledge, collective responsibility, and relational forms of political action.
+Drawing from Indigenous feminisms, environmental humanities, and decolonial theory, the project develops *ñañapura*—meaning “among sisters” in Kichwa—as a framework for understanding Indigenous feminist praxis grounded in embodied knowledge, collective responsibility, relationality, and environmental stewardship.
 
-Based on ethnographic fieldwork conducted in 2023 and 2024, this research combines oral history, documentary practice, audiovisual media, and collaborative methodologies to examine how Indigenous women generate alternative forms of environmental resistance and knowledge production in the Ecuadorian Amazon.
+Based on ethnographic fieldwork conducted between 2023 and 2025, this research combines oral history, documentary practice, audiovisual media, and collaborative methodologies to examine how Indigenous women sustain cultural memory and generate alternative forms of environmental resistance and knowledge production.
 
 ### Research Areas
 
 - Indigenous Feminisms
 - Environmental Justice
 - Ethnography
+- Oral History
 - Documentary Practice
 - Decolonial Theory
-- Oral History
+- Amazonian Studies
 
 ---
 
@@ -39,15 +40,15 @@ Based on ethnographic fieldwork conducted in 2023 and 2024, this research combin
 <p align="center">
   <img src="/images/Photo_logo.png"
        alt="Kichwa Language and Cultural Immersion Project"
-       width="260"
+       width="250"
        style="border-radius: 18px;">
 </p>
 
-This project emerged from intensive Kichwa language study and cultural immersion in the Ecuadorian Amazon through the Foreign Language and Area Studies Fellowship funded by the U.S. Department of Education during the summers of 2023 and 2024.
+This project emerged from intensive Kichwa language study and cultural immersion in the Ecuadorian Amazon through the Foreign Language and Area Studies (FLAS) Fellowship funded by the U.S. Department of Education during the summers of 2023 and 2024.
 
 The project promotes Kichwa language and culture through free and accessible digital resources that support self-guided learning, Indigenous language revitalization, and cultural preservation.
 
-By gathering texts, videos, and educational materials in one organized space, the project seeks to make Kichwa language learning more accessible for broader public audiences.
+By gathering texts, videos, oral resources, and educational materials in one organized digital space, the project seeks to make Kichwa language learning more accessible while supporting broader efforts toward Indigenous linguistic and cultural continuity.
 
 [Visit the Kichwa Project Website](https://lulischmader.github.io/The-Kichwa-Project/)
 
@@ -58,16 +59,17 @@ By gathering texts, videos, and educational materials in one organized space, th
 - Public Humanities
 - Indigenous Education
 - Cultural Preservation
+- Language Pedagogy
 
 ---
 
-# Kichwa Diaspora, Language Revitalization, and Mobility in the United States
+# Indigenous Diaspora, Language Revitalization, and Mobility in the United States
 
-This project examines the Kichwa diaspora community in Queens, New York, focusing on multilingualism, migration, cultural continuity, and intergenerational memory among Indigenous migrants and younger generations.
+This project examines Kichwa diasporic communities in the United States, with particular attention to multilingualism, migration, cultural continuity, and intergenerational memory among Indigenous migrants and younger generations.
 
-Drawing from sociolinguistics, migration studies, Indigenous studies, and ethnographic research, this work explores how multilingual practices across English, Spanish, and Kichwa shape identity formation and community belonging within transnational Indigenous contexts.
+Drawing from sociolinguistics, migration studies, Indigenous studies, and ethnographic research, this work explores how multilingual practices across English, Spanish, and Kichwa shape identity formation, language maintenance, and community belonging within transnational Indigenous contexts.
 
-The project also examines how younger Kichwa generations reclaim language, traditions, and ancestral knowledge as forms of cultural continuity and resistance within diasporic and urban environments.
+The project also investigates how younger Kichwa generations reclaim language, traditions, and ancestral knowledge as forms of cultural continuity and resistance within diasporic and urban environments.
 
 ### Research Areas
 
@@ -77,12 +79,42 @@ The project also examines how younger Kichwa generations reclaim language, tradi
 - Language Revitalization
 - Ethnography
 - Transnational Studies
+- Indigenous Mobility
 
 ---
 
-# Community Participation Form
+# Environmental Justice and Territorial Defense
 
-If you are interested in participating in this project or learning more about ongoing research initiatives related to Kichwa diaspora communities, please complete the form below.
+<p align="center">
+  <img src="/images/yutzupino2%20(1).jpg"
+       alt="Mining activity in the Ecuadorian Amazon"
+       width="760"
+       style="border-radius: 12px;">
+</p>
+
+This area of research examines extractivism, environmental degradation, and Indigenous territorial defense in the Ecuadorian Amazon through digital humanities methodologies, documentary practice, and environmental storytelling.
+
+My work explores how Indigenous communities organize against mining, oil extraction, and ecological destruction while sustaining collective forms of environmental knowledge and territorial sovereignty.
+
+Digital mapping and StoryMap projects expand these collaborations by making environmental conflicts and Indigenous resistance movements accessible to broader public audiences.
+
+[View the Sarayaku StoryMap](https://storymaps.arcgis.com/stories/be689452754f48ac92f5047b56580e93)
+
+### Research Areas
+
+- Environmental Humanities
+- Extractivism Studies
+- Territorial Defense
+- Digital Humanities
+- StoryMaps and Mapping
+- Public Humanities
+- Indigenous Sovereignty
+
+---
+
+# Community Participation and Oral History Project
+
+If you are interested in participating in ongoing research initiatives related to Kichwa diasporic communities, migration, language revitalization, and cultural memory, please complete the form below.
 
 <p align="center">
   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJV6duJpozwI5pdR39zwNFiBSvBIgNKqHmGfUJdxm5ZLER9Q/viewform?embedded=true"
