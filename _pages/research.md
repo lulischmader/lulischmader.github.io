@@ -49,9 +49,11 @@ A preview trailer for the collaborative documentary project is available below. 
      align="right"
      style="border-radius: 15px; margin-left: 25px; margin-bottom: 15px;">
 
-This project emerged from intensive Kichwa language study in the Ecuadorian Amazon through the Foreign Language and Area Studies (FLAS) Fellowship funded by the U.S. Department of Education during the summers of 2023 and 2024.
+Kichwa is a variety of the Quechua language spoken by Indigenous Peoples of the Andes, primarily in Ecuador, Peru, Bolivia, and Colombia.
 
-Through language immersion and community-based learning, this project examines the relationship between Indigenous language revitalization, cultural preservation, and collective memory in contemporary Kichwa communities. The project explores how Kichwa language practices sustain ancestral knowledge systems, cultural identity, and Indigenous epistemologies across changing social and political contexts.
+This project emerged from intensive Kichwa language study and cultural immersion in the Ecuadorian Amazon through the Foreign Language and Area Studies (FLAS) Fellowship funded by the U.S. Department of Education during the summers of 2023 and 2024.
+
+The project promotes Kichwa language and culture by offering free and accessible online resources that support self-guided learning. By gathering texts, videos, and other educational materials in one organized space, the project seeks to make Kichwa language learning more accessible while supporting Indigenous language revitalization and cultural preservation.
 
 [Visit The Kichwa Project Website](https://lulischmader.github.io/The-Kichwa-Project/)
 
