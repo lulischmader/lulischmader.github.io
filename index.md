@@ -2,7 +2,7 @@
 ---
 layout: page
 title: Home
-permalink: /home/
+permalink: /
 ---
 
 # Lourdes “Luli” Schmader
@@ -12,7 +12,7 @@ permalink: /home/
 Digital Humanities • Indigenous Feminisms • Environmental Humanities • Latin American Studies
 
 <p align="center">
-  <img src="/images/amazon-hero.jpg"
+  <img src="/images/Luli-Waterfall2.png"
        alt="Ecuadorian Amazon landscape"
        width="900"
        style="border-radius: 12px;">
