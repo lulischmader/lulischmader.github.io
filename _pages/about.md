@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About
-
 <p align="center">
   <img src="/images/Geositio-El-Churo.JPG"
        alt="Fieldwork in the Ecuadorian Amazon"
