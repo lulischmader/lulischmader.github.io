@@ -15,7 +15,7 @@ Digital Humanities • Indigenous Feminisms • Environmental Humanities • Ama
      align="right"
      style="border-radius: 12px; margin-left: 30px; margin-bottom: 20px;">
 
-My work explores Indigenous sovereignty, environmental justice, language revitalization, and decolonial feminist praxis in the Ecuadorian Amazon and Indigenous diasporic communities in the United States.
+My work explores Indigenous sovereignty, environmental justice, language revitalization, and decolonial feminist praxis in the Ecuadorian Amazon and among Kichwa diasporic communities across the United States.
 
 <p align="center">
   <a href="/about/">About</a> •
