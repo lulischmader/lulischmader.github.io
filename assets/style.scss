@@ -1378,3 +1378,40 @@ li {
 
 @import "darcula";
 @import "svg-icons";
+/************************************/
+/* TEACHING PAGE */
+/************************************/
+
+.page h2 {
+  margin-top: 3.5rem;
+  margin-bottom: 1.2rem;
+  font-size: 28px;
+  line-height: 1.35;
+}
+
+.page h2::before,
+.page h2::after {
+  display: none !important;
+}
+
+.page p {
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page ul {
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.page hr {
+  max-width: 760px;
+  margin: 3rem auto;
+}
+
+.page {
+  font-size: 18px;
+  line-height: 1.9;
+}
