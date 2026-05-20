@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About me...
+title: About
 permalink: /about/
 ---
-
-# About
 
 <p align="center">
   <img src="/images/Geositio-El-Churo.JPG"
