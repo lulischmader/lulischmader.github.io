@@ -4,8 +4,6 @@ title: Teaching
 permalink: /teaching/
 ---
 
-# Teaching
-
 My teaching emphasizes language learning, cultural analysis, interdisciplinary inquiry, and student-centered pedagogy. I approach the classroom as a collaborative space where students connect language, history, literature, visual culture, and contemporary social issues across the Spanish-speaking world.
 
 ---
