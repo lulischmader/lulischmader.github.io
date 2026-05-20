@@ -83,10 +83,30 @@ The project also investigates how younger Kichwa generations reclaim language, t
 
 ---
 
+# Kichwa Diaspora Community Participation Initiative
+
+As part of this ongoing research, I am developing collaborative and community-based methodologies with members of Kichwa diasporic communities in the United States.
+
+This initiative invites participants to share experiences related to migration, multilingualism, cultural memory, identity formation, and language revitalization among Kichwa communities living outside Ecuador.
+
+<p align="center">
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJV6duJpozwI5pdR39zwNFiBSvBIgNKqHmGfUJdxm5ZLER9Q/viewform?embedded=true"
+          width="700"
+          height="1600"
+          frameborder="0"
+          marginheight="0"
+          marginwidth="0"
+          style="border-radius: 12px;">
+  Loading…
+  </iframe>
+</p>
+
+---
+
 # Environmental Justice and Territorial Defense
 
 <p align="center">
-  <img src="/images/yutzupino2%20(1).jpg"
+  <img src="/images/yutzupino-mining.jpg"
        alt="Mining activity in the Ecuadorian Amazon"
        width="760"
        style="border-radius: 12px;">
@@ -109,21 +129,3 @@ Digital mapping and StoryMap projects expand these collaborations by making envi
 - StoryMaps and Mapping
 - Public Humanities
 - Indigenous Sovereignty
-
----
-
-# Community Participation and Oral History Project
-
-If you are interested in participating in ongoing research initiatives related to Kichwa diasporic communities, migration, language revitalization, and cultural memory, please complete the form below.
-
-<p align="center">
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJV6duJpozwI5pdR39zwNFiBSvBIgNKqHmGfUJdxm5ZLER9Q/viewform?embedded=true"
-          width="700"
-          height="1600"
-          frameborder="0"
-          marginheight="0"
-          marginwidth="0"
-          style="border-radius: 12px;">
-  Loading…
-  </iframe>
-</p>
