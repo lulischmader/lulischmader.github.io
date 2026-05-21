@@ -4,70 +4,58 @@ title: Teaching
 permalink: /teaching/
 ---
 
-My teaching emphasizes language learning, cultural analysis, interdisciplinary inquiry, and student-centered pedagogy. I approach the classroom as a collaborative space where students connect language, history, literature, visual culture, and contemporary social issues across the Spanish-speaking world.
+## University of Miami  
+**Graduate Teaching Assistant, Department of Modern Languages and Literatures**  
+2021–2025
+
+- **SPA 353: Colonial Spanish American Topics**  
+  *The Struggle for Representation: Writing Indigenous Peoples during the Spanish-American Colonial Period*  
+  Spring 2025 — Co-taught with Dr. Viviana Díaz Balsera
+
+- **SPA 202: Intermediate Spanish II**  
+  Fall 2024; Spring 2024
+
+- **SPA 201: Intermediate Spanish I**  
+  Summer 2025; Fall 2023
+
+- **SPA 102: Elementary Spanish II**  
+  Spring 2023
+
+- **SPA 101: Elementary Spanish I**  
+  Fall 2022
 
 ---
 
-# Courses
+## Northwest Vista College  
+**Spanish Adjunct Faculty, World Languages Department**  
+2021–2025  
+Courses taught online in synchronous and asynchronous formats.
 
-## Colonial Spanish American Topics (SPA 353)
+- **SPAN 1412: Elementary Spanish II**  
+  Summer 2022; Spring 2021
 
-Advanced seminar examining colonial Latin American textual and visual cultures through the study of Indigenous, Spanish, mestizo, and criollo representations produced during the colonial period.
-
-The course explores how conquest, evangelization, and colonial modernity transformed Indigenous societies across the Americas while also generating complex forms of resistance, cultural continuity, and epistemological negotiation. Through literary texts, codices, visual materials, and historical documents from regions including Mexico and Peru, students analyze how Indigenous peoples were represented, imagined, and contested within colonial systems of power and knowledge.
-
-Particular attention is given to Indigenous epistemologies, colonial violence, environmental thought, and the intersections between religion, sovereignty, and cultural memory in the early modern Atlantic world. The course concludes with contemporary Indigenous environmental movements in the Ecuadorian Amazon, including the *Kawsak Sacha* (“Living Forest”) declaration advanced by Indigenous women from Amazonian communities.
-
----
-
-## Intermediate Spanish II (SPA 202)
-
-Advanced intermediate Spanish course focused on textual analysis, analytical writing, and the continued development of oral and written communicative proficiency.
-
-Through the study of short stories, poetry, essays, films, visual culture, and contemporary media, students engage with diverse cultural, historical, and political contexts across the Spanish-speaking world. The course emphasizes critical thinking, intercultural analysis, and the development of sophisticated interpretive and argumentative skills in Spanish.
-
-Students strengthen grammatical proficiency, vocabulary acquisition, close reading practices, and oral presentation abilities while examining questions related to identity, cultural diversity, social responsibility, and representation.
+- **SPAN 1411: Elementary Spanish I**  
+  Fall 2025; Summer 2025; Summer 2024; Summer 2023; Summer 2022; Summer 2021; Spring 2021
 
 ---
 
-## Intermediate Spanish I (SPA 201)
+## Texas Lutheran University  
+**Spanish Adjunct Faculty, Department of Communication, Cultures, English, and World Languages**  
+2020–2021  
+Courses taught online in synchronous format.
 
-Intermediate-level Spanish language course focused on the continued development of speaking, listening, reading, and writing skills through communicative and culturally engaged approaches to language learning.
-
-This course strengthens oral fluency, grammatical proficiency, analytical writing, and interpretive reading while introducing students to more complex linguistic structures and diverse cultural contexts across the Spanish-speaking world.
-
-Students engage with literary excerpts, media, and cultural materials that encourage critical reflection on language, identity, history, and cultural diversity.
-
----
-
-## Elementary Spanish II (SPA 102)
-
-Continuation of introductory Spanish language study through the development of speaking, listening, reading, and writing skills at the beginner-intermediate level.
-
-This course emphasizes communicative language learning, intercultural competency, and active student participation through collaborative and discussion-based activities. Students engage with diverse linguistic and cultural contexts across the Spanish-speaking world while strengthening grammatical proficiency, conversational fluency, and written expression.
-
-Using a flipped-classroom model, students encounter new material through guided preparation outside of class while classroom time focuses on interactive practice, collaborative learning, and applied communication.
+- **SPAN 131: Elementary Spanish I**  
+  Spring 2021; Fall 2020
 
 ---
 
-## Elementary Spanish I (SPA 101)
+## Texas State University  
+**Graduate Teaching Assistant, Department of World Languages and Literatures**  
+2018–2020  
+Courses taught in person and online in synchronous formats.
 
-Introduction to Spanish language and Hispanic cultures through the development of speaking, listening, reading, and writing skills at the beginner level.
+- **SPAN 1420: Beginning Spanish II**  
+  Summer 2020
 
-This course emphasizes communicative language learning, cultural literacy, and interactive engagement with the diverse histories, geographies, and cultures of the Spanish-speaking world.
-
-Students develop foundational proficiency in Spanish while building cross-cultural awareness through collaborative activities, multimedia resources, and everyday communication practices.
-
----
-
-# Pedagogical Areas
-
-- Student-centered language pedagogy
-- Communicative language teaching
-- Cultural analysis
-- Indigenous studies
-- Latin American literature and culture
-- Environmental humanities
-- Visual and textual analysis
-- Digital humanities in the classroom
-- Intercultural communication
+- **SPAN 1410: Beginning Spanish I**  
+  Spring 2020; Fall 2019
