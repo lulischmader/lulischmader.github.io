@@ -5,6 +5,13 @@ permalink: /cv/
 ---
 
 <p align="center">
+  <img src="/images/UM-Talk-04-05-2024.jpeg"
+       alt="Presentation at the University of Miami"
+       width="760"
+       style="border-radius: 12px;">
+</p>
+
+<p align="center">
   <a href="/assets/pdfs/Schmader_Lourdes_CV_Updated_05-16-2026.pdf"
      style="font-size: 20px; font-weight: 600; color: #304d3d;">
     Download Full CV (PDF) →
@@ -98,6 +105,4 @@ Digital Humanities • Indigenous Feminisms • Environmental Humanities • Lat
 
 ---
 
-
-
-    
+ 
