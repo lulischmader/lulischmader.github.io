@@ -4,8 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-# Contact
-
 <p align="center">
   <img src="/images/Vancouver-puesta-del-sol-2023.jpeg"
        alt="Conference travel"
