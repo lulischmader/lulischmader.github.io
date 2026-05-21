@@ -53,6 +53,7 @@ Digital Humanities • Indigenous Feminisms • Environmental Humanities • Lat
 
 - **“Producciones culturales como herramientas de defensa del medio ambiente: Una exploración a la cosmovisión amazónica ecuatoriana del *kawsak sacha* (la selva viviente).”**  
   *Pie de Página* 15 (2025): 55–92.  
+
   <a href="https://piedepagina.uartes.edu.ec/2025/12/19/ii-semestre-2025/"
      style="font-weight: 600; color: #304d3d;">
      Read the article →
@@ -60,6 +61,7 @@ Digital Humanities • Indigenous Feminisms • Environmental Humanities • Lat
 
 - **“Colectivo LasTesis: Cuerpo, calle y movilidad.”**  
   *Alba de América* 41 (2024): 151–166.  
+
   <a href="https://journals.test.calstate.edu/alba/article/view/3541"
      style="font-weight: 600; color: #304d3d;">
      Read the article →
@@ -75,17 +77,20 @@ Digital Humanities • Indigenous Feminisms • Environmental Humanities • Lat
 - Latin American Studies Association (LASA), 2025
 - Congress of Ecuadorianists, 2024
 - University of Warwick Conference, 2024
-<img src="/images/UM-Talk-04-05-2024.jpeg"
-     alt="Presentation at the University of Miami"
-     width="420"
-     align="right"
-     style="border-radius: 12px; margin-left: 28px; margin-top: 10px; margin-bottom: 20px;">
+
+<p align="center">
+  <img src="/images/UM-Talk-04-05-2024.jpeg"
+       alt="Presentation at the University of Miami"
+       width="520"
+       style="border-radius: 12px; margin-top: 20px;">
+</p>
+
 ---
 
 ## Technical Skills
 
-- ArcGIS & ArcGIS Online
 - GitHub Web Projects
+- ArcGIS & ArcGIS Online
 - StoryMaps
 - Omeka
 - CapCut Video Editing
