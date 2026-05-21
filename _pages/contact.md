@@ -3,10 +3,11 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
+
 # Contact
 
 <p align="center">
-  <img src="/images/vancouver-sunset.jpg"
+  <img src="/images/Vancouver-puesta-del-sol-2023.jpeg"
        alt="Conference travel"
        width="760"
        style="border-radius: 12px;">
@@ -18,8 +19,16 @@ I welcome inquiries related to research collaborations, teaching, public humanit
 
 ## Contact Information
 
-- **Email:** luliulloa@gmail.com
-- **GitHub:** [github.com/lulischmader](https://github.com/lulischmader)
-- **LinkedIn:** [Lourdes “Luli” Schmader](#)
-- **Instagram:** [@yourhandle](#)
+- **Email:** <a href="mailto:luliulloa@gmail.com">luliulloa@gmail.com</a>
 
+- **GitHub:**  
+  <a href="https://github.com/lulischmader">
+    github.com/lulischmader
+  </a>
+
+- **LinkedIn:**  
+  <a href="https://www.linkedin.com/">
+    Lourdes “Luli” Schmader
+  </a>
+
+---
