@@ -44,4 +44,11 @@ The documentary is currently in post-production and collaborative editing. The p
 
 ## Fieldwork and Collaboration
 
+<p align="center">
+  <img src="/images/filming.png"
+       alt="Filming documentary fieldwork in the Ecuadorian Amazon"
+       width="700"
+       style="border-radius: 12px; margin-bottom: 20px;">
+</p>
+
 The documentary was developed collaboratively with Kichwa women activists, artists, and community members in the Ecuadorian Amazon. The project combines ethnographic research, oral history, documentary filmmaking, and audiovisual storytelling to create accessible and community-engaged forms of scholarship.
