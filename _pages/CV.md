@@ -5,13 +5,6 @@ permalink: /cv/
 ---
 
 <p align="center">
-  <img src="/images/UM-Talk-04-05-2024.jpeg"
-       alt="Presentation at the University of Miami"
-       width="760"
-       style="border-radius: 12px;">
-</p>
-
-<p align="center">
   <a href="/assets/pdfs/Schmader_Lourdes_CV_Updated_05-16-2026.pdf"
      style="font-size: 20px; font-weight: 600; color: #304d3d;">
     Download Full CV (PDF) →
@@ -82,7 +75,11 @@ Digital Humanities • Indigenous Feminisms • Environmental Humanities • Lat
 - Latin American Studies Association (LASA), 2025
 - Congress of Ecuadorianists, 2024
 - University of Warwick Conference, 2024
-
+<img src="/images/UM-Talk-04-05-2024.jpeg"
+     alt="Presentation at the University of Miami"
+     width="420"
+     align="right"
+     style="border-radius: 12px; margin-left: 28px; margin-top: 10px; margin-bottom: 20px;">
 ---
 
 ## Technical Skills
