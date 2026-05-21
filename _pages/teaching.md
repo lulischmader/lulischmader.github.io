@@ -4,6 +4,9 @@ title: Teaching
 permalink: /teaching/
 ---
 
+My teaching emphasizes language learning, cultural analysis, interdisciplinary inquiry, and student-centered pedagogy. I encourage students to connect language, history, literature, visual culture, and contemporary social issues across the Spanish-speaking world.
+
+---
 ## University of Miami  
 **Graduate Teaching Assistant, Department of Modern Languages and Literatures**  
 2021–2025
